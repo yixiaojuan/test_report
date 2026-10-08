@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791452737148,626,限价买,200,OK,jp@gc - Stepping Thread Group 1-3,text,true,,979,1011,15,15,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,626,0,1
+1791452737097,678,限价买,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,987,1011,15,15,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,678,0,5
+1791452737250,585,限价买,200,OK,jp@gc - Stepping Thread Group 1-5,text,true,,975,1011,16,16,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,585,0,0
+1791452737300,564,限价买,200,OK,jp@gc - Stepping Thread Group 1-6,text,true,,985,1011,17,17,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,564,0,0
+1791452737350,564,限价买,200,OK,jp@gc - Stepping Thread Group 1-7,text,true,,977,1011,18,18,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,564,0,0
+1791452737093,871,限价买,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,987,1011,19,19,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,871,0,9
+1791452737397,594,限价买,200,OK,jp@gc - Stepping Thread Group 1-8,text,true,,989,1011,19,19,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,594,0,0
+1791452737450,571,限价买,200,OK,jp@gc - Stepping Thread Group 1-9,text,true,,983,1011,20,20,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,571,0,1
+1791452737500,553,限价买,200,OK,jp@gc - Stepping Thread Group 1-10,text,true,,987,1011,21,21,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,553,0,0
+1791452737600,471,限价买,200,OK,jp@gc - Stepping Thread Group 1-12,text,true,,981,1011,21,21,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,471,0,0
+1791452737200,884,限价买,200,OK,jp@gc - Stepping Thread Group 1-4,text,true,,983,1011,21,21,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,883,0,1
+1791452737550,567,限价买,200,OK,jp@gc - Stepping Thread Group 1-11,text,true,,987,1011,22,22,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,566,0,0
+1791452737650,472,限价买,200,OK,jp@gc - Stepping Thread Group 1-13,text,true,,981,1011,22,22,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,472,0,0
+1791452737698,486,限价买,200,OK,jp@gc - Stepping Thread Group 1-14,text,true,,995,1011,23,23,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,486,0,1
+1791452737750,480,限价买,200,OK,jp@gc - Stepping Thread Group 1-15,text,true,,983,1011,24,24,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,480,0,0
+1791452737800,571,限价买,200,OK,jp@gc - Stepping Thread Group 1-16,text,true,,981,1011,27,27,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,571,0,0
+1791452737900,477,限价买,200,OK,jp@gc - Stepping Thread Group 1-18,text,true,,983,1011,27,27,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,477,0,0
+1791452737850,558,限价买,200,OK,jp@gc - Stepping Thread Group 1-17,text,true,,981,1011,28,28,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,558,0,1
+1791452737947,534,限价买,200,OK,jp@gc - Stepping Thread Group 1-19,text,true,,981,1011,29,29,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,534,0,1
+1791452738000,486,限价买,200,OK,jp@gc - Stepping Thread Group 1-20,text,true,,983,1011,29,29,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,486,0,0
+1791452738050,469,限价买,200,OK,jp@gc - Stepping Thread Group 1-21,text,true,,987,1011,30,30,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,469,0,1
+1791452738147,403,限价买,200,OK,jp@gc - Stepping Thread Group 1-23,text,true,,981,1011,31,31,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,403,0,0
+1791452738250,387,限价买,200,OK,jp@gc - Stepping Thread Group 1-25,text,true,,983,1011,32,32,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,387,0,1
+1791452738095,551,限价买,200,OK,jp@gc - Stepping Thread Group 1-22,text,true,,985,1011,32,32,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,551,0,1
+1791452738300,405,限价买,200,OK,jp@gc - Stepping Thread Group 1-26,text,true,,977,1011,34,34,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,404,0,0
+1791452738350,458,限价买,200,OK,jp@gc - Stepping Thread Group 1-27,text,true,,983,1011,36,36,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,453,0,0
+1791452738195,614,限价买,200,OK,jp@gc - Stepping Thread Group 1-24,text,true,,979,1011,36,36,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,612,0,1
+1791452738400,468,限价买,200,OK,jp@gc - Stepping Thread Group 1-28,text,true,,981,1011,37,37,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,468,0,0
+1791452738450,454,限价买,200,OK,jp@gc - Stepping Thread Group 1-29,text,true,,989,1011,38,38,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,454,0,0
+1791452738498,461,限价买,200,OK,jp@gc - Stepping Thread Group 1-30,text,true,,983,1011,39,39,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,461,0,0
+1791452738548,425,限价买,200,OK,jp@gc - Stepping Thread Group 1-31,text,true,,977,1011,39,39,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,425,0,0
+1791452738600,431,限价买,200,OK,jp@gc - Stepping Thread Group 1-32,text,true,,983,1011,40,40,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,431,0,0
+1791452738648,424,限价买,200,OK,jp@gc - Stepping Thread Group 1-33,text,true,,981,1011,41,41,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,424,0,1
+1791452738700,406,限价买,200,OK,jp@gc - Stepping Thread Group 1-34,text,true,,987,1011,42,42,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,406,0,0
+1791452738750,427,限价买,200,OK,jp@gc - Stepping Thread Group 1-35,text,true,,981,1011,43,43,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,427,0,0
+1791452738800,418,限价买,200,OK,jp@gc - Stepping Thread Group 1-36,text,true,,979,1011,44,44,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,418,0,0
+1791452738850,430,限价买,200,OK,jp@gc - Stepping Thread Group 1-37,text,true,,987,1011,45,45,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,430,0,1
+1791452738950,426,限价买,200,OK,jp@gc - Stepping Thread Group 1-39,text,true,,985,1011,47,47,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,426,0,1
+1791452738999,425,限价买,200,OK,jp@gc - Stepping Thread Group 1-40,text,true,,981,1011,48,48,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,425,0,0
+1791452738900,573,限价买,200,OK,jp@gc - Stepping Thread Group 1-38,text,true,,989,1011,49,49,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,573,0,1
+1791452739150,447,限价买,200,OK,jp@gc - Stepping Thread Group 1-43,text,true,,975,1011,52,52,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,447,0,1
+1791452739101,497,限价买,200,OK,jp@gc - Stepping Thread Group 1-42,text,true,,985,1011,52,52,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,497,0,1
+1791452739197,457,限价买,200,OK,jp@gc - Stepping Thread Group 1-44,text,true,,975,1011,53,53,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,457,0,1
+1791452739250,414,限价买,200,OK,jp@gc - Stepping Thread Group 1-45,text,true,,983,1011,53,53,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,414,0,1
+1791452739051,720,限价买,200,OK,jp@gc - Stepping Thread Group 1-41,text,true,,981,1011,55,55,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,720,0,0
+1791452739300,477,限价买,200,OK,jp@gc - Stepping Thread Group 1-46,text,true,,979,1011,55,55,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,477,0,0
+1791452739350,455,限价买,200,OK,jp@gc - Stepping Thread Group 1-47,text,true,,993,1011,56,56,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,455,0,1
+1791452739400,446,限价买,200,OK,jp@gc - Stepping Thread Group 1-48,text,true,,983,1011,57,57,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,446,0,1
+1791452739500,461,限价买,200,OK,jp@gc - Stepping Thread Group 1-50,text,true,,979,1011,59,59,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,461,0,0
+1791452739448,556,限价买,200,OK,jp@gc - Stepping Thread Group 1-49,text,true,,977,1011,60,60,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,556,0,1
+1791452739596,444,限价买,200,OK,jp@gc - Stepping Thread Group 1-52,text,true,,981,1011,60,60,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,444,0,1
+1791452739650,444,限价买,200,OK,jp@gc - Stepping Thread Group 1-53,text,true,,987,1011,61,61,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,443,0,0
+1791452739746,388,限价买,200,OK,jp@gc - Stepping Thread Group 1-55,text,true,,987,1011,62,62,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,388,0,0
+1791452739702,481,限价买,200,OK,jp@gc - Stepping Thread Group 1-54,text,true,,979,1011,63,63,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,481,0,0
+1791452739548,657,限价买,200,OK,jp@gc - Stepping Thread Group 1-51,text,true,,981,1011,64,64,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,657,0,0
+1791452739801,430,限价买,200,OK,jp@gc - Stepping Thread Group 1-56,text,true,,977,1011,64,64,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,430,0,0
+1791452739901,397,限价买,200,OK,jp@gc - Stepping Thread Group 1-58,text,true,,977,1011,65,65,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,397,0,2
+1791452739846,467,限价买,200,OK,jp@gc - Stepping Thread Group 1-57,text,true,,987,1011,66,66,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,467,0,1
+1791452739950,407,限价买,200,OK,jp@gc - Stepping Thread Group 1-59,text,true,,987,1011,67,67,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,407,0,1
+1791452740000,429,限价买,200,OK,jp@gc - Stepping Thread Group 1-60,text,true,,977,1011,68,68,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,429,0,1
+1791452740052,392,限价买,200,OK,jp@gc - Stepping Thread Group 1-61,text,true,,985,1011,68,68,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,391,0,1
+1791452740099,405,限价买,200,OK,jp@gc - Stepping Thread Group 1-62,text,true,,977,1011,70,70,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,404,0,0
+1791452740201,386,限价买,200,OK,jp@gc - Stepping Thread Group 1-64,text,true,,977,1011,71,71,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,386,0,1
+1791452740151,485,限价买,200,OK,jp@gc - Stepping Thread Group 1-63,text,true,,983,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,484,0,1
+1791452740248,433,限价买,200,OK,jp@gc - Stepping Thread Group 1-65,text,true,,985,1011,73,73,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,433,0,1
+1791452740302,409,限价买,200,OK,jp@gc - Stepping Thread Group 1-66,text,true,,973,1011,74,74,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,409,0,2
+1791452740401,428,限价买,200,OK,jp@gc - Stepping Thread Group 1-68,text,true,,979,1011,76,76,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,428,0,1
+1791452740451,427,限价买,200,OK,jp@gc - Stepping Thread Group 1-69,text,true,,979,1011,77,77,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,427,0,1
+1791452740551,433,限价买,200,OK,jp@gc - Stepping Thread Group 1-71,text,true,,983,1011,79,79,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,433,0,3
+1791452740502,518,限价买,200,OK,jp@gc - Stepping Thread Group 1-70,text,true,,981,1011,80,80,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,517,0,2
+1791452740351,669,限价买,200,OK,jp@gc - Stepping Thread Group 1-67,text,true,,981,1011,80,80,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,668,0,1
+1791452740652,415,限价买,200,OK,jp@gc - Stepping Thread Group 1-73,text,true,,987,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,414,0,1
+1791452740602,472,限价买,200,OK,jp@gc - Stepping Thread Group 1-72,text,true,,979,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,472,0,1
+1791452740751,416,限价买,200,OK,jp@gc - Stepping Thread Group 1-75,text,true,,979,1011,83,83,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,416,0,1
+1791452740701,503,限价买,200,OK,jp@gc - Stepping Thread Group 1-74,text,true,,979,1011,84,84,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,503,0,1
+1791452740851,390,限价买,200,OK,jp@gc - Stepping Thread Group 1-77,text,true,,985,1011,84,84,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,390,0,1
+1791452740801,491,限价买,200,OK,jp@gc - Stepping Thread Group 1-76,text,true,,979,1011,85,85,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,491,0,0
+1791452740952,395,限价买,200,OK,jp@gc - Stepping Thread Group 1-79,text,true,,979,1011,86,86,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,394,0,4
+1791452740902,508,限价买,200,OK,jp@gc - Stepping Thread Group 1-78,text,true,,981,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,508,0,2
+1791452741000,453,限价买,200,OK,jp@gc - Stepping Thread Group 1-80,text,true,,981,1011,89,89,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,453,0,1
+1791452741051,404,限价买,200,OK,jp@gc - Stepping Thread Group 1-81,text,true,,979,1011,89,89,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,404,0,2
+1791452741100,415,限价买,200,OK,jp@gc - Stepping Thread Group 1-82,text,true,,983,1011,90,90,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,415,0,1
+1791452741150,403,限价买,200,OK,jp@gc - Stepping Thread Group 1-83,text,true,,987,1011,91,91,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,402,0,1
+1791452741198,389,限价买,200,OK,jp@gc - Stepping Thread Group 1-84,text,true,,977,1011,91,91,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,389,0,1
+1791452741297,405,限价买,200,OK,jp@gc - Stepping Thread Group 1-86,text,true,,979,1011,94,94,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,405,0,0
+1791452741248,497,限价买,200,OK,jp@gc - Stepping Thread Group 1-85,text,true,,985,1011,94,94,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,497,0,0
+1791452741402,429,限价买,200,OK,jp@gc - Stepping Thread Group 1-88,text,true,,985,1011,96,96,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,429,0,1
+1791452741502,399,限价买,200,OK,jp@gc - Stepping Thread Group 1-90,text,true,,983,1011,98,98,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,399,0,1
+1791452741448,466,限价买,200,OK,jp@gc - Stepping Thread Group 1-89,text,true,,985,1011,98,98,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,466,0,1
+1791452741596,394,限价买,200,OK,jp@gc - Stepping Thread Group 1-92,text,true,,985,1011,99,99,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,394,0,0
+1791452741647,394,限价买,200,OK,jp@gc - Stepping Thread Group 1-93,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,394,0,2
+1791452741552,490,限价买,200,OK,jp@gc - Stepping Thread Group 1-91,text,true,,995,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,490,0,2
+1791452741699,419,限价买,200,OK,jp@gc - Stepping Thread Group 1-94,text,true,,983,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,419,0,1
+1791452741795,421,限价买,200,OK,jp@gc - Stepping Thread Group 1-96,text,true,,983,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,421,0,1
+1791452741746,472,限价买,200,OK,jp@gc - Stepping Thread Group 1-95,text,true,,981,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,472,0,0
+1791452741847,396,限价买,200,OK,jp@gc - Stepping Thread Group 1-97,text,true,,977,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,396,0,1
+1791452741900,399,限价买,200,OK,jp@gc - Stepping Thread Group 1-98,text,true,,983,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,399,0,1
+1791452741947,437,限价买,200,OK,jp@gc - Stepping Thread Group 1-99,text,true,,983,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,437,0,2
+1791452742001,422,限价买,200,OK,jp@gc - Stepping Thread Group 1-100,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,422,0,1
+1791452741349,1487,限价买,200,OK,jp@gc - Stepping Thread Group 1-87,text,true,,977,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,1487,0,1
+1791452742219,5395,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-96,text,true,,898,0,100,100,null,5391,0,5273
+1791452742425,5189,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-100,text,true,,898,0,100,100,null,5185,0,5067
+1791452742042,5574,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-91,text,true,,897,0,100,100,null,5573,0,5449
+1791452742387,5235,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-99,text,true,,898,0,100,100,null,5235,0,5106
+1791452742302,5329,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-98,text,true,,898,0,100,100,null,5329,0,5190
+1791452742121,5519,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-94,text,true,,897,0,100,100,null,5518,0,5371
+1791452742838,4817,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-87,text,true,,898,0,100,100,null,4817,0,4654
+1791452737791,9880,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,898,0,100,100,null,9879,0,9701
+1791452742219,5471,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-95,text,true,,898,0,100,100,null,5470,0,5273
+1791452742245,5462,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-97,text,true,,898,0,100,100,null,5461,0,5247
+1791452741915,5806,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-89,text,true,,898,0,100,100,null,5805,0,5701
+1791452742042,5696,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-93,text,true,,897,0,100,100,null,5695,0,5571
+1791452741991,5764,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-92,text,true,,898,0,100,100,null,5763,0,5622
+1791452741902,5866,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-90,text,true,,898,0,100,100,null,5865,0,5719
+1791452741832,5949,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-88,text,true,,898,0,100,100,null,5948,0,5798
+1791452741745,6052,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-85,text,true,,898,0,100,100,null,6051,0,5894
+1791452741703,6106,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-86,text,true,,898,0,100,100,null,6106,0,5951
+1791452741588,6235,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-84,text,true,,898,0,100,100,null,6235,0,6083
+1791452741554,6286,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-83,text,true,,898,0,100,100,null,6285,0,6135
+1791452741516,6340,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-82,text,true,,898,0,100,100,null,6340,0,6190
+1791452741456,6417,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-81,text,true,,898,0,100,100,null,6416,0,6265
+1791452741454,6432,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-80,text,true,,898,0,100,100,null,6432,0,6284
+1791452741411,6489,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-78,text,true,,898,0,100,100,null,6488,0,6344
+1791452741349,6567,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-79,text,true,,898,0,100,100,null,6566,0,6419
+1791452741292,6636,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-76,text,true,,898,0,100,100,null,6635,0,6489
+1791452741241,6701,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-77,text,true,,898,0,100,100,null,6701,0,6556
+1791452741204,6751,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-74,text,true,,898,0,100,100,null,6751,0,6605
+1791452741168,6802,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-75,text,true,,898,0,100,100,null,6802,0,6655
+1791452741075,6910,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-72,text,true,,897,0,100,100,null,6910,0,6765
+1791452741068,6930,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-73,text,true,,897,0,100,100,null,6930,0,6788
+1791452741021,6993,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-67,text,true,,898,0,100,100,null,6993,0,6852
+1791452741021,7007,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-70,text,true,,897,0,100,100,null,7006,0,6865
+1791452740986,7058,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-71,text,true,,898,0,100,100,null,7058,0,6914
+1791452740879,7179,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-69,text,true,,898,0,100,100,null,7178,0,7037
+1791452740831,7243,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-68,text,true,,898,0,100,100,null,7243,0,7097
+1791452740712,7376,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-66,text,true,,898,0,100,100,null,7375,0,7230
+1791452740682,7421,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-65,text,true,,898,0,100,100,null,7421,0,7273
+1791452740637,7478,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-63,text,true,,898,0,100,100,null,7478,0,7333
+1791452740589,7542,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-64,text,true,,898,0,100,100,null,7541,0,7396
+1791452740505,7643,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-62,text,true,,898,0,100,100,null,7642,0,7493
+1791452740445,7715,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-61,text,true,,898,0,100,100,null,7714,0,7569
+1791452740430,7746,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-60,text,true,,898,0,100,100,null,7745,0,7598
+1791452740358,7834,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-59,text,true,,898,0,100,100,null,7833,0,7686
+1791452740314,7891,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-57,text,true,,898,0,100,100,null,7891,0,7744
+1791452740299,7921,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-58,text,true,,898,0,100,100,null,7921,0,7775
+1791452740232,8004,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-56,text,true,,898,0,100,100,null,8004,0,7856
+1791452740206,8044,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-51,text,true,,898,0,100,100,null,8043,0,7897
+1791452740184,8079,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-54,text,true,,898,0,100,100,null,8079,0,7931
+1791452740135,8141,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-55,text,true,,898,0,100,100,null,8141,0,7996
+1791452740094,8197,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-53,text,true,,897,0,100,100,null,8197,0,8054
+1791452740041,8265,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-52,text,true,,897,0,100,100,null,8264,0,8119
+1791452740005,8313,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-49,text,true,,898,0,100,100,null,8313,0,8171
+1791452739962,8373,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-50,text,true,,898,0,100,100,null,8373,0,8230
+1791452739847,8502,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-48,text,true,,898,0,100,100,null,8502,0,8359
+1791452739806,8558,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-47,text,true,,898,0,100,100,null,8558,0,8415
+1791452739777,8602,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-46,text,true,,898,0,100,100,null,8602,0,8459
+1791452739772,8619,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-41,text,true,,898,0,100,100,null,8619,0,8478
+1791452739665,8741,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-45,text,true,,898,0,100,100,null,8741,0,8598
+1791452739655,8766,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-44,text,true,,898,0,100,100,null,8765,0,8621
+1791452739598,8836,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-42,text,true,,898,0,100,100,null,8836,0,8693
+1791452739597,8852,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-43,text,true,,898,0,100,100,null,8852,0,8709
+1791452739474,8989,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-38,text,true,,898,0,100,100,null,8988,0,8844
+1791452739426,9053,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-40,text,true,,898,0,100,100,null,9053,0,8910
+1791452739281,9212,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-37,text,true,,898,0,100,100,null,9211,0,9068
+1791452739218,9291,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-36,text,true,,898,0,100,100,null,9291,0,9146
+1791452739377,9147,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-39,text,true,,898,0,100,100,null,9146,0,9002
+1791452739178,9363,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-35,text,true,,898,0,100,100,null,9362,0,9213
+1791452739107,9446,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-34,text,true,,897,0,100,100,null,9446,0,9299
+1791452739073,9497,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-33,text,true,,897,0,100,100,null,9496,0,9348
+1791452739031,9552,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-32,text,true,,897,0,100,100,null,9552,0,9403
+1791452738973,9625,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-31,text,true,,898,0,100,100,null,9625,0,9476
+1791452738960,9653,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-30,text,true,,898,0,100,100,null,9652,0,9503
+1791452738905,9721,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-29,text,true,,898,0,100,100,null,9721,0,9574
+1791452738868,9774,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-28,text,true,,898,0,100,100,null,9773,0,9625
+1791452738809,9845,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-24,text,true,,898,0,100,100,null,9845,0,9700
+1791452738809,9860,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-27,text,true,,898,0,100,100,null,9860,0,9715
+1791452738705,9981,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-26,text,true,,898,0,100,100,null,9980,0,9836
+1791452738647,10053,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-22,text,true,,898,0,100,100,null,10052,0,9906
+1791452738637,10078,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-25,text,true,,898,0,100,100,null,10078,0,9933
+1791452738550,10182,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-23,text,true,,898,0,100,100,null,10181,0,10033
+1791452738520,10228,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-21,text,true,,898,0,101,101,null,10227,0,10079
+1791452738486,10275,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-20,text,true,,898,0,100,100,null,10274,0,10127
+1791452738481,10296,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-19,text,true,,898,0,100,100,null,10296,0,10145
+1791452738408,10382,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-17,text,true,,898,0,100,100,null,10382,0,10234
+1791452738377,10429,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-18,text,true,,898,0,100,100,null,10429,0,10278
+1791452738371,10449,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-16,text,true,,898,0,100,100,null,10449,0,10298
+1791452738230,10603,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-15,text,true,,898,0,100,100,null,10603,0,10456
+1791452738184,10666,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-14,text,true,,898,0,101,101,null,10665,0,10516
+1791452738122,10739,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-13,text,true,,898,0,100,100,null,10739,0,10593
+1791452738117,10759,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-11,text,true,,898,0,100,100,null,10759,0,10615
+1791452738084,10809,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-4,text,true,,897,0,100,100,null,10809,0,10664
+1791452738072,10838,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-12,text,true,,897,0,100,100,null,10837,0,10689
+1791452738054,10872,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-10,text,true,,897,0,100,100,null,10872,0,10723
+1791452738022,10918,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-9,text,true,,897,0,100,100,null,10917,0,10768
+1791452737992,10961,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-8,text,true,,898,0,100,100,null,10960,0,10814
+1791452737963,11006,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,898,0,100,100,null,11005,0,10857
+1791452737914,11067,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-7,text,true,,898,0,100,100,null,11066,0,10919
+1791452737864,11131,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-6,text,true,,898,0,100,100,null,11131,0,10986
+1791452737836,11176,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-5,text,true,,898,0,100,100,null,11175,0,11025
+1791452737791,11232,JDBC Request_查询订单,200,OK,jp@gc - Stepping Thread Group 1-3,text,true,,898,0,100,100,null,11232,0,11085
+1791452747615,1414,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-100,text,true,,9,0,100,100,null,1414,0,1279
+1791452747617,1412,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-91,text,true,,9,0,100,100,null,1412,0,1311
+1791452747615,1414,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-96,text,true,,9,0,100,100,null,1414,0,1296
+1791452747622,1412,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-99,text,true,,9,0,100,100,null,1412,0,1319
+1791452747631,1412,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-98,text,true,,9,0,100,100,null,1412,0,1323
+1791452749045,3,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-96,text,true,,800,0,100,100,null,0,0,0
+1791452749045,3,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-100,text,true,,802,0,100,100,null,0,0,0
+1791452749045,3,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-98,text,true,,801,0,100,100,null,0,0,0
+1791452749045,3,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-91,text,true,,801,0,100,100,null,0,0,0
+1791452749045,3,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-99,text,true,,801,0,100,100,null,0,0,0
+1791452747640,1424,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-94,text,true,,9,0,100,100,null,1424,0,1330
+1791452749064,1,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-94,text,true,,801,0,100,100,null,0,0,0
+1791452747656,1420,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-87,text,true,,9,0,100,100,null,1420,0,1326
+1791452749076,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-87,text,true,,801,0,100,100,null,0,0,0
+1791452747673,1410,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9,0,100,100,null,1410,0,1324
+1791452749083,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,800,0,100,100,null,0,0,0
+1791452747690,1413,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-95,text,true,,9,0,100,100,null,1413,0,1323
+1791452749104,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-95,text,true,,801,0,100,100,null,0,0,0
+1791452747739,1379,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-93,text,true,,9,0,100,100,null,1379,0,1290
+1791452747707,1411,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-97,text,true,,9,0,100,100,null,1411,0,1317
+1791452747756,1362,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-92,text,true,,9,0,100,100,null,1362,0,1273
+1791452747722,1396,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-89,text,true,,9,0,100,100,null,1396,0,1307
+1791452749118,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-93,text,true,,801,0,100,100,null,0,0,0
+1791452749118,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-97,text,true,,801,0,100,100,null,0,0,0
+1791452749118,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-92,text,true,,801,0,100,100,null,0,0,0
+1791452749118,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-89,text,true,,801,0,100,100,null,0,0,0
+1791452747769,1357,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-90,text,true,,9,0,100,100,null,1357,0,1265
+1791452749126,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-90,text,true,,801,0,100,100,null,0,0,0
+1791452747782,1352,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-88,text,true,,9,0,100,100,null,1352,0,1261
+1791452749134,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-88,text,true,,801,0,100,100,null,0,0,0
+1791452747798,1357,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-85,text,true,,9,0,100,100,null,1357,0,1266
+1791452749156,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-85,text,true,,801,0,100,100,null,0,0,0
+1791452747811,1360,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-86,text,true,,9,0,100,100,null,1360,0,1265
+1791452747825,1346,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-84,text,true,,9,0,100,100,null,1346,0,1258
+1791452749171,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-86,text,true,,801,0,100,100,null,0,0,0
+1791452749171,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-84,text,true,,801,0,100,100,null,0,0,0
+1791452747841,1355,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-83,text,true,,9,0,100,100,null,1355,0,1263
+1791452749196,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-83,text,true,,801,0,100,100,null,0,0,0
+1791452747888,1325,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-80,text,true,,9,0,100,100,null,1325,0,1230
+1791452747917,1296,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-79,text,true,,9,0,100,100,null,1296,0,1209
+1791452747874,1339,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-81,text,true,,9,0,100,100,null,1339,0,1244
+1791452749213,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-80,text,true,,801,0,100,100,null,0,0,0
+1791452747858,1355,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-82,text,true,,9,0,100,100,null,1355,0,1260
+1791452747901,1312,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-78,text,true,,9,0,100,100,null,1312,0,1217
+1791452749213,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-79,text,true,,801,0,100,100,null,0,0,0
+1791452749213,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-78,text,true,,801,0,100,100,null,0,0,0
+1791452749213,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-82,text,true,,801,0,100,100,null,0,0,0
+1791452749213,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-81,text,true,,801,0,100,100,null,0,0,0
+1791452747929,1297,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-76,text,true,,9,0,100,100,null,1297,0,1205
+1791452749226,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-76,text,true,,801,0,100,100,null,0,0,0
+1791452747944,1304,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-77,text,true,,9,0,100,100,null,1303,0,1212
+1791452749248,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-77,text,true,,801,0,100,100,null,0,0,0
+1791452747957,1309,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-74,text,true,,9,0,100,100,null,1309,0,1214
+1791452747971,1295,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-75,text,true,,9,0,100,100,null,1295,0,1200
+1791452749267,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-74,text,true,,801,0,100,100,null,0,0,0
+1791452749267,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-75,text,true,,801,0,100,100,null,0,0,0
+1791452747987,1301,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-72,text,true,,9,0,100,100,null,1301,0,1209
+1791452749288,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-72,text,true,,801,0,100,100,null,0,0,0
+1791452748045,1263,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-71,text,true,,9,0,100,100,null,1262,0,1168
+1791452748029,1279,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-70,text,true,,9,0,100,100,null,1278,0,1184
+1791452748000,1308,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-73,text,true,,9,0,100,100,null,1308,0,1213
+1791452748016,1292,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-67,text,true,,9,0,100,100,null,1291,0,1197
+1791452749308,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-70,text,true,,801,0,100,100,null,0,0,0
+1791452749308,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-67,text,true,,800,0,100,100,null,0,0,0
+1791452749308,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-73,text,true,,801,0,100,100,null,0,0,0
+1791452749308,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-71,text,true,,800,0,100,100,null,0,0,0
+1791452748059,1249,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-69,text,true,,9,0,100,100,null,1248,0,1154
+1791452749308,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-69,text,true,,801,0,100,100,null,0,0,0
+1791452748075,1240,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-68,text,true,,9,0,100,100,null,1239,0,1151
+1791452749315,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-68,text,true,,801,0,100,100,null,0,0,0
+1791452748089,1242,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-66,text,true,,9,0,100,100,null,1242,0,1159
+1791452749331,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-66,text,true,,801,0,100,100,null,0,0,0
+1791452748105,1256,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-65,text,true,,9,0,100,100,null,1256,0,1161
+1791452748117,1244,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-63,text,true,,9,0,100,100,null,1244,0,1149
+1791452749361,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-63,text,true,,801,0,100,100,null,0,0,0
+1791452749361,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-65,text,true,,801,0,100,100,null,0,0,0
+1791452748133,1248,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-64,text,true,,9,0,100,100,null,1248,0,1155
+1791452749381,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-64,text,true,,800,0,100,100,null,0,0,0
+1791452748149,1254,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-62,text,true,,9,0,100,100,null,1254,0,1159
+1791452748161,1242,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-61,text,true,,9,0,100,100,null,1242,0,1147
+1791452749308,95,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-71,text,true,,9,0,100,100,null,95,0,0
+1791452749309,94,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-69,text,true,,9,0,100,100,null,94,0,0
+1791452748222,1181,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-58,text,true,,9,0,100,100,null,1181,0,1093
+1791452749309,94,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-70,text,true,,9,0,100,100,null,94,0,0
+1791452749403,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-61,text,true,,801,0,100,100,null,0,0,0
+1791452749403,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-58,text,true,,801,0,100,100,null,0,0,0
+1791452749403,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-62,text,true,,801,0,100,100,null,0,0,0
+1791452748238,1185,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-56,text,true,,9,0,100,100,null,1185,0,1093
+1791452749424,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-56,text,true,,801,0,100,100,null,0,0,0
+1791452748264,1193,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-54,text,true,,9,0,100,100,null,1192,0,1097
+1791452748251,1206,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-51,text,true,,9,0,100,100,null,1205,0,1110
+1791452749457,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-54,text,true,,801,0,100,100,null,0,0,0
+1791452749457,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-51,text,true,,801,0,100,100,null,0,0,0
+1791452748277,1192,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-55,text,true,,9,0,100,100,null,1191,0,1104
+1791452749469,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-55,text,true,,800,0,100,100,null,0,0,0
+1791452749404,95,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-62,text,true,,9,0,100,100,null,95,0,0
+1791452749404,95,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-58,text,true,,9,0,100,100,null,95,0,0
+1791452748307,1192,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-52,text,true,,9,0,100,100,null,1192,0,1097
+1791452749404,95,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-61,text,true,,9,0,100,100,null,95,0,0
+1791452748319,1180,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-49,text,true,,9,0,100,100,null,1180,0,1085
+1791452748293,1206,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-53,text,true,,9,0,100,100,null,1206,0,1110
+1791452749499,1,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-52,text,true,,801,0,100,100,null,0,0,0
+1791452749499,1,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-49,text,true,,801,0,100,100,null,0,0,0
+1791452749500,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-53,text,true,,801,0,100,100,null,0,0,0
+1791452748381,1133,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-46,text,true,,9,0,100,100,null,1133,0,1042
+1791452749515,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-46,text,true,,801,0,100,100,null,0,0,0
+1791452748408,1140,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-45,text,true,,9,0,100,100,null,1140,0,1049
+1791452748393,1155,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-41,text,true,,9,0,100,100,null,1155,0,1064
+1791452749549,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-45,text,true,,801,0,100,100,null,0,0,0
+1791452749549,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-41,text,true,,801,0,100,100,null,0,0,0
+1791452748422,1138,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-44,text,true,,9,0,100,100,null,1138,0,1047
+1791452749560,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-44,text,true,,801,0,100,100,null,0,0,0
+1791452748464,1132,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-38,text,true,,9,0,100,100,null,1132,0,1036
+1791452749500,96,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-49,text,true,,9,0,100,100,null,96,0,0
+1791452748451,1145,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-43,text,true,,9,0,100,100,null,1145,0,1049
+1791452748436,1160,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-42,text,true,,9,0,100,100,null,1160,0,1064
+1791452749500,96,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-53,text,true,,9,0,100,100,null,96,0,0
+1791452749596,1,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-38,text,true,,801,0,100,100,null,0,0,0
+1791452749597,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-43,text,true,,801,0,100,100,null,0,0,0
+1791452749597,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-42,text,true,,801,0,100,100,null,0,0,0
+1791452749500,96,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-52,text,true,,9,0,100,100,null,96,0,0
+1791452748525,1081,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-39,text,true,,9,0,100,100,null,1080,0,989
+1791452749606,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-39,text,true,,801,0,100,100,null,0,0,0
+1791452748555,1086,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-34,text,true,,9,0,100,100,null,1085,0,993
+1791452748542,1099,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-35,text,true,,9,0,100,100,null,1098,0,1006
+1791452749641,1,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-35,text,true,,801,0,100,100,null,0,0,0
+1791452749641,1,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-34,text,true,,801,0,100,100,null,0,0,0
+1791452749404,247,限价卖,200,OK,jp@gc - Stepping Thread Group 1-70,text,true,,989,1011,101,101,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,246,0,0
+1791452749404,247,限价卖,200,OK,jp@gc - Stepping Thread Group 1-69,text,true,,981,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,247,0,0
+1791452749404,248,限价卖,200,OK,jp@gc - Stepping Thread Group 1-71,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,247,0,0
+1791452748571,1082,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-33,text,true,,9,0,100,100,null,1082,0,989
+1791452749653,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-33,text,true,,801,0,100,100,null,0,0,0
+1791452749597,96,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-42,text,true,,9,0,100,100,null,95,0,0
+1791452749597,96,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-38,text,true,,9,0,100,100,null,95,0,0
+1791452748600,1093,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-31,text,true,,9,0,100,100,null,1092,0,998
+1791452749693,1,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-31,text,true,,801,0,100,100,null,0,0,0
+1791452748585,1109,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-32,text,true,,9,0,100,100,null,1109,0,1013
+1791452749694,1,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-32,text,true,,800,0,100,100,null,0,0,0
+1791452748615,1080,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-30,text,true,,9,0,100,100,null,1080,0,983
+1791452749695,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-30,text,true,,801,0,100,100,null,0,0,0
+1791452749597,98,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-43,text,true,,9,0,100,100,null,97,0,0
+1791452748670,1025,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-27,text,true,,9,0,100,100,null,1025,0,936
+1791452749695,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-27,text,true,,801,0,100,100,null,0,0,0
+1791452748701,1031,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-22,text,true,,9,0,100,100,null,1031,0,940
+1791452748687,1045,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-26,text,true,,9,0,100,100,null,1045,0,954
+1791452749733,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-22,text,true,,801,0,100,100,null,0,0,0
+1791452749733,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-26,text,true,,801,0,100,100,null,0,0,0
+1791452748717,1029,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-25,text,true,,9,0,100,100,null,1029,0,936
+1791452749746,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-25,text,true,,801,0,100,100,null,0,0,0
+1791452749500,265,限价卖,200,OK,jp@gc - Stepping Thread Group 1-58,text,true,,975,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,264,0,0
+1791452749500,271,限价卖,200,OK,jp@gc - Stepping Thread Group 1-61,text,true,,983,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,271,0,0
+1791452749500,275,限价卖,200,OK,jp@gc - Stepping Thread Group 1-62,text,true,,973,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,275,0,0
+1791452749695,95,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-27,text,true,,9,0,100,100,null,95,0,0
+1791452748733,1057,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-23,text,true,,9,0,100,100,null,1057,0,960
+1791452749695,95,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-32,text,true,,9,0,100,100,null,95,0,0
+1791452748749,1041,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-21,text,true,,9,0,100,100,null,1041,0,945
+1791452749694,96,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-31,text,true,,9,0,100,100,null,96,0,0
+1791452749790,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-23,text,true,,801,0,100,100,null,0,0,0
+1791452749790,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-21,text,true,,801,0,100,100,null,0,0,0
+1791452748762,1028,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-20,text,true,,9,0,100,100,null,1028,0,933
+1791452749790,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-20,text,true,,801,0,100,100,null,0,0,0
+1791452749695,96,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-30,text,true,,9,0,100,100,null,95,0,0
+1791452748851,974,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-14,text,true,,9,0,100,100,null,973,0,881
+1791452748834,991,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-15,text,true,,9,0,100,100,null,990,0,898
+1791452749825,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-14,text,true,,800,0,100,100,null,0,0,0
+1791452749825,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-15,text,true,,801,0,100,100,null,0,0,0
+1791452749653,191,市价买,200,OK,jp@gc - Stepping Thread Group 1-71,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,191,0,0
+1791452749652,194,市价买,200,OK,jp@gc - Stepping Thread Group 1-70,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,194,0,0
+1791452749652,194,市价买,200,OK,jp@gc - Stepping Thread Group 1-69,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,194,0,0
+1791452749597,251,限价卖,200,OK,jp@gc - Stepping Thread Group 1-53,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,251,0,0
+1791452748862,992,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-13,text,true,,9,0,100,100,null,992,0,884
+1791452749598,256,限价卖,200,OK,jp@gc - Stepping Thread Group 1-52,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,256,0,0
+1791452749855,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-13,text,true,,801,0,100,100,null,0,0,0
+1791452749597,260,限价卖,200,OK,jp@gc - Stepping Thread Group 1-49,text,true,,981,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,259,0,0
+1791452748928,959,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-10,text,true,,9,0,100,100,null,959,0,863
+1791452748894,993,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-4,text,true,,9,0,100,100,null,993,0,897
+1791452749790,98,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-23,text,true,,9,0,100,100,null,97,0,0
+1791452748911,976,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-12,text,true,,9,0,100,100,null,976,0,880
+1791452748877,1011,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-11,text,true,,9,0,100,100,null,1010,0,913
+1791452749888,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-4,text,true,,800,0,100,100,null,0,0,0
+1791452749888,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-12,text,true,,801,0,100,100,null,0,0,0
+1791452749888,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-10,text,true,,801,0,100,100,null,0,0,0
+1791452749888,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-11,text,true,,800,0,100,100,null,0,0,0
+1791452749791,96,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-20,text,true,,9,0,100,100,null,96,0,0
+1791452749790,98,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-21,text,true,,9,0,100,100,null,97,0,0
+1791452748982,934,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-7,text,true,,9,0,100,100,null,934,0,843
+1791452748997,919,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-6,text,true,,9,0,100,100,null,919,0,828
+1791452749917,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-7,text,true,,800,0,100,100,null,0,0,0
+1791452749917,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-6,text,true,,800,0,100,100,null,0,0,0
+1791452749013,935,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-5,text,true,,9,0,100,100,null,934,0,841
+1791452749948,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-5,text,true,,800,0,100,100,null,0,0,0
+1791452749765,197,市价买,200,OK,jp@gc - Stepping Thread Group 1-58,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,197,0,0
+1791452749772,192,市价买,200,OK,jp@gc - Stepping Thread Group 1-61,text,true,,962,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452749694,275,限价卖,200,OK,jp@gc - Stepping Thread Group 1-42,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,275,0,0
+1791452749696,274,限价卖,200,OK,jp@gc - Stepping Thread Group 1-43,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,274,0,0
+1791452749776,200,市价买,200,OK,jp@gc - Stepping Thread Group 1-62,text,true,,964,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,200,0,0
+1791452749048,935,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-99,text,true,,9,0,100,100,null,935,0,841
+1791452749888,95,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-11,text,true,,9,0,100,100,null,95,0,0
+1791452749048,935,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-100,text,true,,9,0,100,100,null,935,0,841
+1791452749025,959,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-3,text,true,,9,0,100,100,null,958,0,864
+1791452749048,936,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-91,text,true,,9,0,100,100,null,936,0,841
+1791452749984,1,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-3,text,true,,800,0,100,100,null,0,0,0
+1791452749048,937,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-96,text,true,,9,0,100,100,null,935,0,841
+1791452749888,97,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-4,text,true,,9,0,100,100,null,95,0,0
+1791452749076,932,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-87,text,true,,9,0,100,100,null,932,0,841
+1791452749083,925,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,9,0,100,100,null,925,0,834
+1791452749694,320,限价卖,200,OK,jp@gc - Stepping Thread Group 1-38,text,true,,977,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,320,0,0
+1791452749791,238,限价卖,200,OK,jp@gc - Stepping Thread Group 1-30,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,238,0,0
+1791452749791,239,限价卖,200,OK,jp@gc - Stepping Thread Group 1-32,text,true,,987,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,239,0,0
+1791452749104,933,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-95,text,true,,9,0,100,100,null,933,0,844
+1791452749848,190,市价买,200,OK,jp@gc - Stepping Thread Group 1-53,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,189,0,0
+1791452749847,192,市价卖,200,OK,jp@gc - Stepping Thread Group 1-69,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452749847,193,市价卖,200,OK,jp@gc - Stepping Thread Group 1-70,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,193,0,0
+1791452749855,192,市价买,200,OK,jp@gc - Stepping Thread Group 1-52,text,true,,978,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452749118,965,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-92,text,true,,9,0,100,100,null,965,0,868
+1791452749118,965,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-97,text,true,,9,0,100,100,null,965,0,868
+1791452749985,98,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-3,text,true,,9,0,100,100,null,98,0,0
+1791452749126,958,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-90,text,true,,9,0,100,100,null,957,0,860
+1791452749134,949,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-88,text,true,,9,0,100,100,null,949,0,852
+1791452749118,966,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-93,text,true,,9,0,100,100,null,965,0,867
+1791452749118,966,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-89,text,true,,9,0,100,100,null,965,0,868
+1791452749171,930,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-86,text,true,,9,0,101,101,null,930,0,837
+1791452749171,930,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-84,text,true,,9,0,101,101,null,930,0,837
+1791452749790,314,限价卖,200,OK,jp@gc - Stepping Thread Group 1-27,text,true,,987,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,314,0,0
+1791452749790,323,限价卖,200,OK,jp@gc - Stepping Thread Group 1-31,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,323,0,0
+1791452749196,933,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-83,text,true,,9,0,100,100,null,932,0,841
+1791452749846,286,市价卖,200,OK,jp@gc - Stepping Thread Group 1-71,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,286,0,0
+1791452749857,282,市价买,200,OK,jp@gc - Stepping Thread Group 1-49,text,true,,978,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,282,0,0
+1791452749888,255,限价卖,200,OK,jp@gc - Stepping Thread Group 1-23,text,true,,987,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,255,0,0
+1791452749964,193,市价卖,200,OK,jp@gc - Stepping Thread Group 1-61,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,193,0,0
+1791452749963,195,市价卖,200,OK,jp@gc - Stepping Thread Group 1-58,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,195,0,0
+1791452749971,195,市价买,200,OK,jp@gc - Stepping Thread Group 1-43,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,195,0,0
+1791452749977,190,市价卖,200,OK,jp@gc - Stepping Thread Group 1-62,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,190,0,0
+1791452749969,211,市价买,200,OK,jp@gc - Stepping Thread Group 1-42,text,true,,978,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,210,0,0
+1791452749213,968,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-79,text,true,,9,0,100,100,null,968,0,872
+1791452749213,968,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-81,text,true,,9,0,100,100,null,968,0,872
+1791452749226,956,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-76,text,true,,9,0,100,100,null,955,0,859
+1791452749213,969,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-80,text,true,,9,0,100,100,null,969,0,871
+1791452749249,932,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-77,text,true,,9,0,100,100,null,932,0,836
+1791452749213,969,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-78,text,true,,9,0,100,100,null,969,0,872
+1791452749213,969,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-82,text,true,,9,0,100,100,null,968,0,872
+1791452749267,926,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-75,text,true,,9,0,100,100,null,926,0,834
+1791452749267,926,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-74,text,true,,9,0,100,100,null,926,0,834
+1791452750015,196,市价买,200,OK,jp@gc - Stepping Thread Group 1-38,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,196,0,0
+1791452749888,325,限价卖,200,OK,jp@gc - Stepping Thread Group 1-21,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,325,0,0
+1791452749985,234,限价卖,200,OK,jp@gc - Stepping Thread Group 1-100,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,233,0,0
+1791452749985,234,限价卖,200,OK,jp@gc - Stepping Thread Group 1-96,text,true,,981,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,234,0,0
+1791452749288,935,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-72,text,true,,9,0,100,100,null,935,0,841
+1791452750031,201,市价买,200,OK,jp@gc - Stepping Thread Group 1-32,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,201,0,0
+1791452750041,191,撤单,200,OK,jp@gc - Stepping Thread Group 1-70,text,true,,978,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,191,0,0
+1791452750029,203,市价买,200,OK,jp@gc - Stepping Thread Group 1-30,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,203,0,0
+1791452750038,194,市价卖,200,OK,jp@gc - Stepping Thread Group 1-53,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,194,0,0
+1791452749985,252,限价卖,200,OK,jp@gc - Stepping Thread Group 1-91,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,252,0,0
+1791452750009,230,限价卖,200,OK,jp@gc - Stepping Thread Group 1-87,text,true,,989,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,230,0,0
+1791452749984,259,限价卖,200,OK,jp@gc - Stepping Thread Group 1-11,text,true,,977,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,258,0,0
+1791452749888,360,限价卖,200,OK,jp@gc - Stepping Thread Group 1-20,text,true,,975,1011,101,101,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,360,0,0
+1791452749985,265,限价卖,200,OK,jp@gc - Stepping Thread Group 1-4,text,true,,973,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,265,0,0
+1791452750009,257,限价卖,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,257,0,0
+1791452748194,2085,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-59,text,true,,9,0,100,100,null,2085,0,1989
+1791452748177,2102,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-60,text,true,,9,0,100,100,null,2102,0,2006
+1791452749332,947,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-66,text,true,,9,0,100,100,null,947,0,852
+1791452748207,2072,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-57,text,true,,9,0,100,100,null,2072,0,1976
+1791452749309,970,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-73,text,true,,9,0,100,100,null,970,0,874
+1791452749308,971,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-67,text,true,,9,0,100,100,null,971,0,875
+1791452750037,243,限价卖,200,OK,jp@gc - Stepping Thread Group 1-95,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,243,0,0
+1791452749315,965,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-68,text,true,,9,0,100,100,null,964,0,869
+1791452750279,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-59,text,true,,801,0,100,100,null,0,0,0
+1791452750279,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-57,text,true,,801,0,100,100,null,0,0,0
+1791452750279,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-60,text,true,,801,0,100,100,null,0,0,0
+1791452749984,316,限价卖,200,OK,jp@gc - Stepping Thread Group 1-99,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,316,0,0
+1791452750105,201,市价买,200,OK,jp@gc - Stepping Thread Group 1-27,text,true,,976,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,201,0,0
+1791452749362,945,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-65,text,true,,9,0,100,100,null,945,0,831
+1791452749362,945,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-63,text,true,,9,0,100,100,null,945,0,831
+1791452750113,201,市价买,200,OK,jp@gc - Stepping Thread Group 1-31,text,true,,976,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,201,0,0
+1791452749381,934,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-64,text,true,,9,0,100,100,null,933,0,842
+1791452750047,271,市价卖,200,OK,jp@gc - Stepping Thread Group 1-52,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,271,0,0
+1791452750140,186,市价卖,200,OK,jp@gc - Stepping Thread Group 1-49,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,186,0,0
+1791452750133,193,撤单,200,OK,jp@gc - Stepping Thread Group 1-71,text,true,,976,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,193,0,0
+1791452750084,243,限价卖,200,OK,jp@gc - Stepping Thread Group 1-89,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,243,0,0
+1791452750084,248,限价卖,200,OK,jp@gc - Stepping Thread Group 1-88,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,248,0,0
+1791452750084,249,限价卖,200,OK,jp@gc - Stepping Thread Group 1-93,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,249,0,0
+1791452750084,249,限价卖,200,OK,jp@gc - Stepping Thread Group 1-90,text,true,,983,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,249,0,0
+1791452750084,260,限价卖,200,OK,jp@gc - Stepping Thread Group 1-3,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,260,0,0
+1791452750159,187,撤单,200,OK,jp@gc - Stepping Thread Group 1-58,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,187,0,0
+1791452750039,311,撤单,200,OK,jp@gc - Stepping Thread Group 1-69,text,true,,984,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,311,0,0
+1791452750157,197,撤单,200,OK,jp@gc - Stepping Thread Group 1-61,text,true,,978,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,197,0,0
+1791452750167,200,撤单,200,OK,jp@gc - Stepping Thread Group 1-62,text,true,,964,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,200,0,0
+1791452750129,238,限价卖,200,OK,jp@gc - Stepping Thread Group 1-83,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,238,0,0
+1791452750144,243,市价买,200,OK,jp@gc - Stepping Thread Group 1-23,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,243,0,0
+1791452750083,310,限价卖,200,OK,jp@gc - Stepping Thread Group 1-92,text,true,,977,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,310,0,0
+1791452750083,311,限价卖,200,OK,jp@gc - Stepping Thread Group 1-97,text,true,,981,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,310,0,0
+1791452748337,2058,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-50,text,true,,9,0,100,100,null,2058,0,1942
+1791452750395,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-50,text,true,,800,0,100,100,null,0,0,0
+1791452748351,2044,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-48,text,true,,9,0,100,100,null,2044,0,1928
+1791452750396,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-48,text,true,,801,0,100,100,null,0,0,0
+1791452749457,939,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-54,text,true,,9,0,100,100,null,939,0,823
+1791452748366,2030,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-47,text,true,,9,0,100,100,null,2030,0,1914
+1791452750396,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-47,text,true,,801,0,100,100,null,0,0,0
+1791452749457,940,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-51,text,true,,9,0,100,100,null,940,0,823
+1791452749469,928,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-55,text,true,,9,0,100,100,null,928,0,811
+1791452749424,973,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-56,text,true,,9,0,100,100,null,973,0,856
+1791452750212,192,市价卖,200,OK,jp@gc - Stepping Thread Group 1-38,text,true,,964,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452750101,308,限价卖,200,OK,jp@gc - Stepping Thread Group 1-84,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,308,0,0
+1791452750219,193,市价买,200,OK,jp@gc - Stepping Thread Group 1-96,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452750219,193,市价买,200,OK,jp@gc - Stepping Thread Group 1-100,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,193,0,0
+1791452750182,232,限价卖,200,OK,jp@gc - Stepping Thread Group 1-79,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,231,0,0
+1791452750182,238,限价卖,200,OK,jp@gc - Stepping Thread Group 1-81,text,true,,987,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,233,0,0
+1791452750101,319,限价卖,200,OK,jp@gc - Stepping Thread Group 1-86,text,true,,983,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,319,0,0
+1791452750182,241,限价卖,200,OK,jp@gc - Stepping Thread Group 1-82,text,true,,983,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,241,0,0
+1791452750233,193,市价卖,200,OK,jp@gc - Stepping Thread Group 1-30,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,193,0,0
+1791452750239,188,市价买,200,OK,jp@gc - Stepping Thread Group 1-87,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,188,0,0
+1791452750233,195,撤单,200,OK,jp@gc - Stepping Thread Group 1-53,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,195,0,0
+1791452750182,246,限价卖,200,OK,jp@gc - Stepping Thread Group 1-76,text,true,,989,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,246,0,0
+1791452750213,215,市价买,200,OK,jp@gc - Stepping Thread Group 1-21,text,true,,976,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,215,0,0
+1791452750233,195,市价卖,200,OK,jp@gc - Stepping Thread Group 1-32,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,195,0,0
+1791452750237,195,市价买,200,OK,jp@gc - Stepping Thread Group 1-91,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,195,0,0
+1791452750182,254,限价卖,200,OK,jp@gc - Stepping Thread Group 1-80,text,true,,981,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,254,0,0
+1791452748494,1954,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-37,text,true,,9,0,100,100,null,1954,0,1813
+1791452748481,1967,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-40,text,true,,9,0,100,100,null,1967,0,1826
+1791452750448,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-37,text,true,,801,0,100,100,null,0,0,0
+1791452750448,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-40,text,true,,798,0,100,100,null,0,0,0
+1791452748511,1937,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-36,text,true,,9,0,100,100,null,1937,0,1804
+1791452750448,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-36,text,true,,800,0,100,100,null,0,0,0
+1791452750243,215,市价买,200,OK,jp@gc - Stepping Thread Group 1-11,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,215,0,0
+1791452750223,246,限价卖,200,OK,jp@gc - Stepping Thread Group 1-72,text,true,,977,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,246,0,0
+1791452750248,230,市价买,200,OK,jp@gc - Stepping Thread Group 1-20,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,230,0,0
+1791452750250,233,市价买,200,OK,jp@gc - Stepping Thread Group 1-4,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,233,0,0
+1791452750266,218,市价买,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,218,0,0
+1791452750182,312,限价卖,200,OK,jp@gc - Stepping Thread Group 1-77,text,true,,983,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,312,0,0
+1791452750306,190,市价卖,200,OK,jp@gc - Stepping Thread Group 1-27,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,190,0,0
+1791452750182,317,限价卖,200,OK,jp@gc - Stepping Thread Group 1-78,text,true,,975,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,317,0,0
+1791452750281,222,市价买,200,OK,jp@gc - Stepping Thread Group 1-95,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,222,0,0
+1791452749515,988,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-46,text,true,,9,0,100,100,null,988,0,880
+1791452749549,954,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-45,text,true,,9,0,100,100,null,954,0,847
+1791452749560,943,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-44,text,true,,9,0,100,100,null,943,0,836
+1791452749549,955,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-41,text,true,,9,0,100,100,null,954,0,847
+1791452750194,322,限价卖,200,OK,jp@gc - Stepping Thread Group 1-74,text,true,,983,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,322,0,0
+1791452750281,236,限价卖,200,OK,jp@gc - Stepping Thread Group 1-68,text,true,,981,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,236,0,0
+1791452748628,1891,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-29,text,true,,9,0,100,100,null,1891,0,1769
+1791452748643,1876,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-28,text,true,,9,0,100,100,null,1876,0,1754
+1791452750519,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-28,text,true,,801,0,100,100,null,0,0,0
+1791452750519,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-29,text,true,,801,0,100,100,null,0,0,0
+1791452750281,238,限价卖,200,OK,jp@gc - Stepping Thread Group 1-73,text,true,,981,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,238,0,0
+1791452748656,1863,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-24,text,true,,9,0,100,100,null,1863,0,1741
+1791452750519,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-24,text,true,,801,0,100,100,null,0,0,0
+1791452750301,219,市价买,200,OK,jp@gc - Stepping Thread Group 1-99,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,219,0,0
+1791452750333,188,市价买,200,OK,jp@gc - Stepping Thread Group 1-90,text,true,,964,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,188,0,0
+1791452750318,206,撤单,200,OK,jp@gc - Stepping Thread Group 1-52,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,206,0,0
+1791452750194,331,限价卖,200,OK,jp@gc - Stepping Thread Group 1-75,text,true,,977,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,331,0,0
+1791452750326,201,撤单,200,OK,jp@gc - Stepping Thread Group 1-49,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,201,0,0
+1791452750332,196,市价买,200,OK,jp@gc - Stepping Thread Group 1-88,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,195,0,0
+1791452750314,214,市价卖,200,OK,jp@gc - Stepping Thread Group 1-31,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,214,0,0
+1791452750328,200,市价买,200,OK,jp@gc - Stepping Thread Group 1-89,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,200,0,0
+1791452750333,199,市价买,200,OK,jp@gc - Stepping Thread Group 1-93,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,199,0,0
+1791452749642,895,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-35,text,true,,9,0,100,100,null,895,0,806
+1791452749606,932,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-39,text,true,,9,0,100,100,null,932,0,842
+1791452749642,896,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-34,text,true,,9,0,100,100,null,896,0,806
+1791452750307,243,限价卖,200,OK,jp@gc - Stepping Thread Group 1-65,text,true,,991,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,243,0,0
+1791452750315,240,限价卖,200,OK,jp@gc - Stepping Thread Group 1-64,text,true,,993,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,240,0,0
+1791452750344,212,市价买,200,OK,jp@gc - Stepping Thread Group 1-3,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,211,0,0
+1791452750394,181,市价买,200,OK,jp@gc - Stepping Thread Group 1-92,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,181,0,0
+1791452750167,412,市价卖,200,OK,jp@gc - Stepping Thread Group 1-43,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,412,0,0
+1791452750394,193,市价买,200,OK,jp@gc - Stepping Thread Group 1-97,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,193,0,0
+1791452750387,204,市价卖,200,OK,jp@gc - Stepping Thread Group 1-23,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,204,0,0
+1791452750412,182,市价卖,200,OK,jp@gc - Stepping Thread Group 1-96,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,182,0,0
+1791452750279,316,限价卖,200,OK,jp@gc - Stepping Thread Group 1-66,text,true,,977,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,316,0,0
+1791452750404,193,撤单,200,OK,jp@gc - Stepping Thread Group 1-38,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452750409,191,市价买,200,OK,jp@gc - Stepping Thread Group 1-84,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,191,0,0
+1791452748778,1822,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-19,text,true,,9,0,100,100,null,1822,0,1726
+1791452749654,946,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-33,text,true,,9,0,100,100,null,946,0,849
+1791452750600,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-19,text,true,,801,0,100,100,null,0,0,0
+1791452748807,1793,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-18,text,true,,9,0,100,100,null,1793,0,1697
+1791452748791,1809,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-17,text,true,,9,0,100,100,null,1809,0,1713
+1791452750600,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-18,text,true,,801,0,100,100,null,0,0,0
+1791452750600,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-17,text,true,,801,0,100,100,null,0,0,0
+1791452750414,190,市价买,200,OK,jp@gc - Stepping Thread Group 1-79,text,true,,978,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,190,0,0
+1791452750281,324,限价卖,200,OK,jp@gc - Stepping Thread Group 1-67,text,true,,975,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,324,0,0
+1791452750412,194,市价卖,200,OK,jp@gc - Stepping Thread Group 1-100,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,194,0,0
+1791452750420,190,市价买,200,OK,jp@gc - Stepping Thread Group 1-81,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,190,0,0
+1791452748821,1790,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-16,text,true,,9,0,100,100,null,1790,0,1698
+1791452749733,878,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-26,text,true,,9,0,100,100,null,878,0,786
+1791452749733,878,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-22,text,true,,9,0,100,100,null,878,0,786
+1791452750611,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-16,text,true,,801,0,100,100,null,0,0,0
+1791452750427,199,市价卖,200,OK,jp@gc - Stepping Thread Group 1-87,text,true,,978,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,198,0,0
+1791452750428,199,撤单,200,OK,jp@gc - Stepping Thread Group 1-32,text,true,,978,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,199,0,0
+1791452750423,205,市价买,200,OK,jp@gc - Stepping Thread Group 1-82,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,205,0,0
+1791452750421,207,市价买,200,OK,jp@gc - Stepping Thread Group 1-86,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,207,0,0
+1791452750436,194,市价买,200,OK,jp@gc - Stepping Thread Group 1-80,text,true,,962,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,194,0,0
+1791452750426,206,撤单,200,OK,jp@gc - Stepping Thread Group 1-30,text,true,,980,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,206,0,0
+1791452749747,885,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-25,text,true,,9,0,100,100,null,885,0,790
+1791452748942,1690,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-9,text,true,,9,0,100,100,null,1690,0,1596
+1791452748954,1678,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-8,text,true,,9,0,100,100,null,1678,0,1584
+1791452750632,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-9,text,true,,800,0,100,100,null,0,0,0
+1791452750632,0,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-8,text,true,,800,0,100,100,null,0,0,0
+1791452750368,267,市价买,200,OK,jp@gc - Stepping Thread Group 1-83,text,true,,980,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,267,0,0
+1791452750307,336,限价卖,200,OK,jp@gc - Stepping Thread Group 1-63,text,true,,981,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,336,0,0
+1791452750428,222,市价卖,200,OK,jp@gc - Stepping Thread Group 1-21,text,true,,980,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,222,0,0
+1791452750428,225,市价买,200,OK,jp@gc - Stepping Thread Group 1-76,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,225,0,0
+1791452750432,222,市价卖,200,OK,jp@gc - Stepping Thread Group 1-91,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,222,0,0
+1791452750397,260,限价卖,200,OK,jp@gc - Stepping Thread Group 1-56,text,true,,993,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,260,0,0
+1791452750397,268,限价卖,200,OK,jp@gc - Stepping Thread Group 1-55,text,true,,979,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,268,0,0
+1791452750396,269,限价卖,200,OK,jp@gc - Stepping Thread Group 1-54,text,true,,985,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,269,0,0
+1791452750470,200,市价买,200,OK,jp@gc - Stepping Thread Group 1-72,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,200,0,0
+1791452750181,491,市价卖,200,OK,jp@gc - Stepping Thread Group 1-42,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,491,0,0
+1791452750495,187,市价买,200,OK,jp@gc - Stepping Thread Group 1-77,text,true,,976,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,187,0,0
+1791452750458,227,市价卖,200,OK,jp@gc - Stepping Thread Group 1-11,text,true,,976,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,227,0,0
+1791452750499,197,市价买,200,OK,jp@gc - Stepping Thread Group 1-78,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,196,0,0
+1791452748970,1726,JDBC Request_查询订单状态_首次查询,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,9,0,101,101,null,1726,0,1630
+1791452749826,870,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-15,text,true,,9,0,101,101,null,870,0,774
+1791452749826,870,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-14,text,true,,9,0,101,101,null,870,0,774
+1791452749855,841,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-13,text,true,,9,0,101,101,null,841,0,745
+1791452750696,1,DEBUG_STATUS,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,800,0,100,100,null,0,0,0
+1791452750484,213,市价卖,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,980,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,213,0,0
+1791452749888,815,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-12,text,true,,9,0,100,100,null,815,0,723
+1791452749888,815,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-10,text,true,,9,0,100,100,null,815,0,723
+1791452749048,1655,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-98,text,true,,9,0,100,100,null,1655,0,1563
+1791452750483,221,市价卖,200,OK,jp@gc - Stepping Thread Group 1-4,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,220,0,0
+1791452750478,230,市价卖,200,OK,jp@gc - Stepping Thread Group 1-20,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,230,0,0
+1791452750519,203,市价买,200,OK,jp@gc - Stepping Thread Group 1-73,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,203,0,0
+1791452750521,203,市价卖,200,OK,jp@gc - Stepping Thread Group 1-90,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,202,0,0
+1791452750528,197,撤单,200,OK,jp@gc - Stepping Thread Group 1-31,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,197,0,0
+1791452750532,193,市价卖,200,OK,jp@gc - Stepping Thread Group 1-93,text,true,,972,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,193,0,0
+1791452750497,229,撤单,200,OK,jp@gc - Stepping Thread Group 1-27,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,229,0,0
+1791452750517,209,市价买,200,OK,jp@gc - Stepping Thread Group 1-68,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,209,0,0
+1791452749065,1662,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-94,text,true,,9,0,100,100,null,1662,0,1567
+1791452749917,810,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-6,text,true,,9,0,100,100,null,810,0,715
+1791452749917,810,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-7,text,true,,9,0,100,100,null,810,0,715
+1791452750528,201,市价卖,200,OK,jp@gc - Stepping Thread Group 1-89,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,200,0,0
+1791452750525,204,市价买,200,OK,jp@gc - Stepping Thread Group 1-75,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,204,0,0
+1791452750528,202,市价卖,200,OK,jp@gc - Stepping Thread Group 1-88,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,202,0,0
+1791452750397,335,限价卖,200,OK,jp@gc - Stepping Thread Group 1-51,text,true,,987,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,335,0,0
+1791452750516,220,市价买,200,OK,jp@gc - Stepping Thread Group 1-74,text,true,,976,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,220,0,0
+1791452750520,217,市价卖,200,OK,jp@gc - Stepping Thread Group 1-99,text,true,,970,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,216,0,0
+1791452750555,187,市价买,200,OK,jp@gc - Stepping Thread Group 1-64,text,true,,982,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,187,0,0
+1791452750551,196,市价买,200,OK,jp@gc - Stepping Thread Group 1-65,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,196,0,0
+1791452750504,266,限价卖,200,OK,jp@gc - Stepping Thread Group 1-41,text,true,,977,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,265,0,0
+1791452750504,267,限价卖,200,OK,jp@gc - Stepping Thread Group 1-44,text,true,,975,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,267,0,0
+1791452750576,196,市价卖,200,OK,jp@gc - Stepping Thread Group 1-92,text,true,,974,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,196,0,0
+1791452750579,199,撤单,200,OK,jp@gc - Stepping Thread Group 1-43,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,199,0,0
+1791452750595,186,市价买,200,OK,jp@gc - Stepping Thread Group 1-66,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,186,0,0
+1791452750556,232,市价卖,200,OK,jp@gc - Stepping Thread Group 1-3,text,true,,968,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,232,0,0
+1791452750503,289,市价卖,200,OK,jp@gc - Stepping Thread Group 1-95,text,true,,966,1011,100,100,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,289,0,0
+1791452750697,113,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,9,0,100,100,null,112,0,0
+1791452749948,862,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-5,text,true,,9,0,100,100,null,861,0,749
+1791452750281,529,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-57,text,true,,9,0,100,100,null,528,0,422
+1791452749156,1654,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-85,text,true,,9,0,100,100,null,1653,0,1541
+1791452750233,579,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-70,text,true,,460,0,100,100,null,579,0,464
+1791452750326,495,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-71,text,true,,460,0,99,99,null,495,0,377
+1791452750281,541,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-60,text,true,,9,0,99,99,null,541,0,422
+1791452750354,475,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-61,text,true,,460,0,98,98,null,475,0,375
+1791452750350,488,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-69,text,true,,460,0,97,97,null,487,0,378
+1791452750347,499,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-58,text,true,,460,0,96,96,null,498,0,381
+1791452750587,282,市价卖,200,OK,jp@gc - Stepping Thread Group 1-97,text,true,,968,1011,95,95,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,281,0,0
+1791452750538,331,限价卖,200,OK,jp@gc - Stepping Thread Group 1-34,text,true,,985,1011,95,95,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,331,0,0
+1791452750591,287,撤单,200,OK,jp@gc - Stepping Thread Group 1-23,text,true,,978,1011,95,95,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,287,0,0
+1791452750395,511,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-50,text,true,,9,0,95,95,null,510,0,416
+1791452750396,510,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-48,text,true,,9,0,95,95,null,509,0,415
+1791452750396,510,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-47,text,true,,9,0,95,95,null,509,0,415
+1791452750428,480,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-53,text,true,,460,0,95,95,null,479,0,384
+1791452750503,411,限价卖,200,OK,jp@gc - Stepping Thread Group 1-46,text,true,,985,1011,94,94,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,411,0,0
+1791452750605,311,市价买,200,OK,jp@gc - Stepping Thread Group 1-67,text,true,,974,1011,94,94,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,311,0,0
+1791452750594,322,撤单,200,OK,jp@gc - Stepping Thread Group 1-96,text,true,,976,1011,94,94,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,322,0,0
+1791452750367,554,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-62,text,true,,460,0,94,94,null,553,0,444
+1791452750448,475,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-37,text,true,,9,0,93,93,null,475,0,373
+1791452750448,475,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-40,text,true,,9,0,93,93,null,475,0,374
+1791452750448,476,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-36,text,true,,9,0,93,93,null,476,0,381
+1791452750519,410,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-28,text,true,,9,0,93,93,null,410,0,319
+1791452750606,327,撤单,200,OK,jp@gc - Stepping Thread Group 1-100,text,true,,972,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,327,0,0
+1791452750519,418,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-29,text,true,,9,0,93,93,null,418,0,327
+1791452750604,364,市价卖,200,OK,jp@gc - Stepping Thread Group 1-79,text,true,,970,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,364,0,0
+1791452750600,368,市价卖,200,OK,jp@gc - Stepping Thread Group 1-84,text,true,,972,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,368,0,0
+1791452750610,361,市价卖,200,OK,jp@gc - Stepping Thread Group 1-81,text,true,,972,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,361,0,0
+1791452750630,342,市价卖,200,OK,jp@gc - Stepping Thread Group 1-80,text,true,,972,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,341,0,0
+1791452750628,347,市价卖,200,OK,jp@gc - Stepping Thread Group 1-86,text,true,,972,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,344,0,0
+1791452750628,359,市价卖,200,OK,jp@gc - Stepping Thread Group 1-82,text,true,,986,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,358,0,0
+1791452750519,488,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-24,text,true,,9,0,93,93,null,488,0,387
+1791452750504,509,限价卖,200,OK,jp@gc - Stepping Thread Group 1-45,text,true,,984,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,412,0,0
+1791452750683,331,市价卖,200,OK,jp@gc - Stepping Thread Group 1-77,text,true,,972,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,330,0,0
+1791452750600,416,限价卖,200,OK,jp@gc - Stepping Thread Group 1-33,text,true,,989,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,415,0,0
+1791452750657,360,市价买,200,OK,jp@gc - Stepping Thread Group 1-56,text,true,,966,1011,93,93,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,360,0,0
+1791452750527,491,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-49,text,true,,460,0,93,93,null,491,0,379
+1791452750635,391,市价卖,200,OK,jp@gc - Stepping Thread Group 1-83,text,true,,968,1011,92,92,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,391,0,0
+1791452750611,417,限价卖,200,OK,jp@gc - Stepping Thread Group 1-22,text,true,,975,1011,92,92,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,417,0,0
+1791452750538,490,限价卖,200,OK,jp@gc - Stepping Thread Group 1-39,text,true,,985,1011,92,92,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,490,0,0
+1791452750524,508,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-52,text,true,,460,0,92,92,null,508,0,382
+1791452750597,443,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-38,text,true,,460,0,91,91,null,443,0,311
+1791452750600,442,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-19,text,true,,9,0,90,90,null,442,0,321
+1791452750600,443,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-18,text,true,,9,0,90,90,null,443,0,323
+1791452750600,443,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-17,text,true,,9,0,90,90,null,443,0,323
+1791452750611,433,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-16,text,true,,9,0,90,90,null,433,0,313
+1791452750627,426,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-32,text,true,,460,0,90,90,null,426,0,302
+1791452750632,437,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-30,text,true,,460,0,89,89,null,437,0,305
+1791452750727,344,市价卖,200,OK,jp@gc - Stepping Thread Group 1-68,text,true,,968,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,344,0,0
+1791452750685,404,撤单,200,OK,jp@gc - Stepping Thread Group 1-11,text,true,,964,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,404,0,0
+1791452750722,371,市价卖,200,OK,jp@gc - Stepping Thread Group 1-73,text,true,,974,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,371,0,0
+1791452750724,369,撤单,200,OK,jp@gc - Stepping Thread Group 1-90,text,true,,978,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,369,0,0
+1791452750704,389,撤单,200,OK,jp@gc - Stepping Thread Group 1-4,text,true,,968,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,388,0,0
+1791452750696,399,市价卖,200,OK,jp@gc - Stepping Thread Group 1-78,text,true,,972,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,399,0,0
+1791452750781,315,市价卖,200,OK,jp@gc - Stepping Thread Group 1-66,text,true,,974,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,315,0,0
+1791452750626,470,撤单,200,OK,jp@gc - Stepping Thread Group 1-87,text,true,,974,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,470,0,0
+1791452750653,450,市价卖,200,OK,jp@gc - Stepping Thread Group 1-76,text,true,,966,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,450,0,0
+1791452750665,439,市价买,200,OK,jp@gc - Stepping Thread Group 1-55,text,true,,974,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,439,0,0
+1791452750697,413,撤单,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,968,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,413,0,0
+1791452750665,449,市价买,200,OK,jp@gc - Stepping Thread Group 1-54,text,true,,972,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,449,0,0
+1791452750654,464,撤单,200,OK,jp@gc - Stepping Thread Group 1-91,text,true,,972,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,464,0,0
+1791452750773,346,撤单,200,OK,jp@gc - Stepping Thread Group 1-92,text,true,,970,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,345,0,0
+1791452750771,360,市价买,200,OK,jp@gc - Stepping Thread Group 1-44,text,true,,978,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,360,0,0
+1791452750644,506,市价买,200,OK,jp@gc - Stepping Thread Group 1-63,text,true,,970,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,506,0,0
+1791452750672,484,撤单,200,OK,jp@gc - Stepping Thread Group 1-42,text,true,,970,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,484,0,0
+1791452750671,495,市价卖,200,OK,jp@gc - Stepping Thread Group 1-72,text,true,,980,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,495,0,0
+1791452750729,437,市价卖,200,OK,jp@gc - Stepping Thread Group 1-75,text,true,,966,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,437,0,0
+1791452750611,557,限价卖,200,OK,jp@gc - Stepping Thread Group 1-26,text,true,,991,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,557,0,0
+1791452750870,299,市价买,200,OK,jp@gc - Stepping Thread Group 1-34,text,true,,968,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,299,0,0
+1791452750810,366,限价卖,200,OK,jp@gc - Stepping Thread Group 1-57,text,true,,983,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,366,0,0
+1791452750632,545,限价卖,200,OK,jp@gc - Stepping Thread Group 1-25,text,true,,987,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,545,0,0
+1791452750728,449,限价卖,200,OK,jp@gc - Stepping Thread Group 1-7,text,true,,977,1011,88,88,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,449,0,0
+1791452750632,561,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-9,text,true,,9,0,88,88,null,561,0,375
+1791452750632,561,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-8,text,true,,9,0,88,88,null,561,0,386
+1791452750281,913,JDBC Request_查询订单状态_轮询,200,OK,jp@gc - Stepping Thread Group 1-59,text,true,,9,0,88,88,null,913,0,751
+1791452750725,482,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-31,text,true,,460,0,88,88,null,482,0,315
+1791452750730,485,撤单,200,OK,jp@gc - Stepping Thread Group 1-88,text,true,,966,1011,87,87,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,485,0,0
+1791452750726,489,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-27,text,true,,460,0,87,87,null,489,0,316
+1791452750770,446,市价买,200,OK,jp@gc - Stepping Thread Group 1-41,text,true,,966,1011,86,86,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,446,0,0
+1791452750725,492,撤单,200,OK,jp@gc - Stepping Thread Group 1-93,text,true,,974,1011,86,86,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,491,0,0
+1791452750916,302,市价卖,200,OK,jp@gc - Stepping Thread Group 1-67,text,true,,974,1011,86,86,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,301,0,0
+1791452750869,351,撤单,200,OK,jp@gc - Stepping Thread Group 1-97,text,true,,972,1011,86,86,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,351,0,0
+1791452750778,449,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-43,text,true,,460,0,86,86,null,449,0,265
+1791452750650,578,撤单,200,OK,jp@gc - Stepping Thread Group 1-21,text,true,,976,1011,85,85,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,578,0,0
+1791452750878,354,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-23,text,true,,460,0,85,85,null,354,0,165
+1791452750810,423,限价卖,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,979,1011,84,84,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,423,0,0
+1791452750696,540,限价卖,200,OK,jp@gc - Stepping Thread Group 1-14,text,true,,995,1011,84,84,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,540,0,0
+1791452750916,328,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-96,text,true,,460,0,84,84,null,327,0,128
+1791452750933,327,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-100,text,true,,460,0,83,83,null,327,0,120
+1791452750914,351,市价买,200,OK,jp@gc - Stepping Thread Group 1-46,text,true,,972,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,351,0,0
+1791452750737,536,市价卖,200,OK,jp@gc - Stepping Thread Group 1-74,text,true,,968,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,536,0,0
+1791452750987,291,撤单,200,OK,jp@gc - Stepping Thread Group 1-82,text,true,,974,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,291,0,0
+1791452750793,485,撤单,200,OK,jp@gc - Stepping Thread Group 1-95,text,true,,966,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,485,0,0
+1791452750732,546,市价买,200,OK,jp@gc - Stepping Thread Group 1-51,text,true,,974,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,546,0,0
+1791452750696,599,限价卖,200,OK,jp@gc - Stepping Thread Group 1-15,text,true,,981,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,599,0,0
+1791452750742,574,市价卖,200,OK,jp@gc - Stepping Thread Group 1-64,text,true,,966,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,574,0,0
+1791452750924,393,限价卖,200,OK,jp@gc - Stepping Thread Group 1-36,text,true,,981,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,393,0,0
+1791452750703,617,限价卖,200,OK,jp@gc - Stepping Thread Group 1-98,text,true,,977,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,614,0,0
+1791452750975,345,撤单,200,OK,jp@gc - Stepping Thread Group 1-86,text,true,,968,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,345,0,0
+1791452750810,511,限价卖,200,OK,jp@gc - Stepping Thread Group 1-85,text,true,,979,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,511,0,0
+1791452750748,573,市价卖,200,OK,jp@gc - Stepping Thread Group 1-65,text,true,,968,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,573,0,0
+1791452751071,251,撤单,200,OK,jp@gc - Stepping Thread Group 1-68,text,true,,974,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,250,0,0
+1791452750906,416,限价卖,200,OK,jp@gc - Stepping Thread Group 1-50,text,true,,983,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,416,0,0
+1791452750737,588,撤单,200,OK,jp@gc - Stepping Thread Group 1-99,text,true,,978,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,585,0,0
+1791452751089,238,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-11,text,true,,460,0,82,82,null,237,0,0
+1791452750788,540,撤单,200,OK,jp@gc - Stepping Thread Group 1-3,text,true,,976,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,540,0,0
+1791452750703,628,限价卖,200,OK,jp@gc - Stepping Thread Group 1-10,text,true,,989,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,628,0,0
+1791452750923,439,限价卖,200,OK,jp@gc - Stepping Thread Group 1-40,text,true,,979,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,439,0,0
+1791452750923,442,限价卖,200,OK,jp@gc - Stepping Thread Group 1-37,text,true,,975,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,442,0,0
+1791452750727,638,限价卖,200,OK,jp@gc - Stepping Thread Group 1-94,text,true,,983,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,638,0,0
+1791452750906,459,限价卖,200,OK,jp@gc - Stepping Thread Group 1-47,text,true,,985,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,459,0,0
+1791452750972,394,撤单,200,OK,jp@gc - Stepping Thread Group 1-80,text,true,,976,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,394,0,0
+1791452750968,398,撤单,200,OK,jp@gc - Stepping Thread Group 1-84,text,true,,974,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,398,0,0
+1791452751014,354,撤单,200,OK,jp@gc - Stepping Thread Group 1-77,text,true,,970,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,354,0,0
+1791452751017,351,市价卖,200,OK,jp@gc - Stepping Thread Group 1-56,text,true,,980,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,351,0,0
+1791452750937,432,限价卖,200,OK,jp@gc - Stepping Thread Group 1-29,text,true,,993,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,431,0,0
+1791452750823,547,限价卖,200,OK,jp@gc - Stepping Thread Group 1-60,text,true,,983,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,547,0,0
+1791452751013,359,市价买,200,OK,jp@gc - Stepping Thread Group 1-45,text,true,,970,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,359,0,0
+1791452751114,258,市价卖,200,OK,jp@gc - Stepping Thread Group 1-54,text,true,,964,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,258,0,0
+1791452750968,405,撤单,200,OK,jp@gc - Stepping Thread Group 1-79,text,true,,972,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,404,0,0
+1791452751026,348,撤单,200,OK,jp@gc - Stepping Thread Group 1-83,text,true,,974,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,347,0,0
+1791452750727,650,限价卖,200,OK,jp@gc - Stepping Thread Group 1-6,text,true,,989,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,649,0,0
+1791452751028,351,市价买,200,OK,jp@gc - Stepping Thread Group 1-22,text,true,,968,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,351,0,0
+1791452751028,352,市价买,200,OK,jp@gc - Stepping Thread Group 1-39,text,true,,974,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,352,0,0
+1791452750729,651,撤单,200,OK,jp@gc - Stepping Thread Group 1-89,text,true,,974,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,651,0,0
+1791452751044,337,限价卖,200,OK,jp@gc - Stepping Thread Group 1-16,text,true,,979,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,337,0,0
+1791452750697,686,限价卖,200,OK,jp@gc - Stepping Thread Group 1-13,text,true,,983,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,686,0,0
+1791452750709,676,撤单,200,OK,jp@gc - Stepping Thread Group 1-20,text,true,,968,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,676,0,0
+1791452750703,690,限价卖,200,OK,jp@gc - Stepping Thread Group 1-12,text,true,,981,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,689,0,0
+1791452751095,298,撤单,200,OK,jp@gc - Stepping Thread Group 1-78,text,true,,968,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,298,0,0
+1791452750537,862,限价卖,200,OK,jp@gc - Stepping Thread Group 1-35,text,true,,977,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,862,0,0
+1791452751166,248,撤单,200,OK,jp@gc - Stepping Thread Group 1-72,text,true,,974,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,248,0,0
+1791452751016,398,市价买,200,OK,jp@gc - Stepping Thread Group 1-33,text,true,,964,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,398,0,0
+1791452751168,246,市价买,200,OK,jp@gc - Stepping Thread Group 1-26,text,true,,966,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,246,0,0
+1791452750971,447,撤单,200,OK,jp@gc - Stepping Thread Group 1-81,text,true,,968,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,447,0,0
+1791452751096,323,撤单,200,OK,jp@gc - Stepping Thread Group 1-66,text,true,,968,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,323,0,0
+1791452751166,255,撤单,200,OK,jp@gc - Stepping Thread Group 1-75,text,true,,970,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,255,0,0
+1791452751150,271,市价卖,200,OK,jp@gc - Stepping Thread Group 1-63,text,true,,974,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,271,0,0
+1791452751218,203,撤单,200,OK,jp@gc - Stepping Thread Group 1-67,text,true,,978,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,203,0,0
+1791452751093,329,撤单,200,OK,jp@gc - Stepping Thread Group 1-73,text,true,,978,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,328,0,0
+1791452751169,256,市价卖,200,OK,jp@gc - Stepping Thread Group 1-34,text,true,,968,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,255,0,0
+1791452751103,324,撤单,200,OK,jp@gc - Stepping Thread Group 1-76,text,true,,972,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,324,0,0
+1791452751104,324,市价卖,200,OK,jp@gc - Stepping Thread Group 1-55,text,true,,974,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,324,0,0
+1791452751177,252,市价买,200,OK,jp@gc - Stepping Thread Group 1-25,text,true,,974,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,252,0,0
+1791452751177,252,市价买,200,OK,jp@gc - Stepping Thread Group 1-7,text,true,,968,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,252,0,0
+1791452751043,386,限价卖,200,OK,jp@gc - Stepping Thread Group 1-17,text,true,,977,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,386,0,0
+1791452751176,256,市价买,200,OK,jp@gc - Stepping Thread Group 1-57,text,true,,970,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,255,0,0
+1791452750810,622,限价卖,200,OK,jp@gc - Stepping Thread Group 1-5,text,true,,981,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,622,0,0
+1791452751042,395,限价卖,200,OK,jp@gc - Stepping Thread Group 1-19,text,true,,981,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,393,0,0
+1791452751007,456,限价卖,200,OK,jp@gc - Stepping Thread Group 1-24,text,true,,983,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,456,0,0
+1791452751216,253,市价卖,200,OK,jp@gc - Stepping Thread Group 1-41,text,true,,972,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,253,0,0
+1791452751043,437,限价卖,200,OK,jp@gc - Stepping Thread Group 1-18,text,true,,989,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,437,0,0
+1791452750906,587,限价卖,200,OK,jp@gc - Stepping Thread Group 1-48,text,true,,977,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,587,0,0
+1791452751131,363,市价卖,200,OK,jp@gc - Stepping Thread Group 1-44,text,true,,968,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,363,0,0
+1791452751265,230,市价卖,200,OK,jp@gc - Stepping Thread Group 1-46,text,true,,974,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,229,0,0
+1791452750929,572,限价卖,200,OK,jp@gc - Stepping Thread Group 1-28,text,true,,987,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,572,0,0
+1791452751273,229,撤单,200,OK,jp@gc - Stepping Thread Group 1-74,text,true,,968,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,229,0,0
+1791452751278,224,市价卖,200,OK,jp@gc - Stepping Thread Group 1-51,text,true,,970,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,224,0,0
+1791452751317,186,撤单,200,OK,jp@gc - Stepping Thread Group 1-64,text,true,,976,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,186,0,0
+1791452751194,309,限价卖,200,OK,jp@gc - Stepping Thread Group 1-59,text,true,,981,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,309,0,0
+1791452751317,188,市价买,200,OK,jp@gc - Stepping Thread Group 1-36,text,true,,972,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,188,0,0
+1791452751321,192,撤单,200,OK,jp@gc - Stepping Thread Group 1-65,text,true,,972,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452751321,192,市价买,200,OK,jp@gc - Stepping Thread Group 1-85,text,true,,970,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452751320,194,市价买,200,OK,jp@gc - Stepping Thread Group 1-98,text,true,,966,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,194,0,0
+1791452751193,321,限价卖,200,OK,jp@gc - Stepping Thread Group 1-8,text,true,,985,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,321,0,0
+1791452751323,193,市价买,200,OK,jp@gc - Stepping Thread Group 1-50,text,true,,970,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,193,0,0
+1791452751193,327,限价卖,200,OK,jp@gc - Stepping Thread Group 1-9,text,true,,979,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,327,0,0
+1791452751295,227,市价买,200,OK,jp@gc - Stepping Thread Group 1-15,text,true,,978,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,227,0,0
+1791452751236,311,市价买,200,OK,jp@gc - Stepping Thread Group 1-14,text,true,,974,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,311,0,0
+1791452751331,220,市价买,200,OK,jp@gc - Stepping Thread Group 1-10,text,true,,978,1011,82,82,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,220,0,0
+1791452751365,186,市价买,200,OK,jp@gc - Stepping Thread Group 1-37,text,true,,972,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,186,0,0
+1791452751093,459,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-90,text,true,,460,0,81,81,null,459,0,100
+1791452751233,319,市价买,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,972,1011,81,81,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,318,0,0
+1791452751365,188,市价买,200,OK,jp@gc - Stepping Thread Group 1-47,text,true,,976,1011,80,80,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,188,0,0
+1791452751365,190,市价买,200,OK,jp@gc - Stepping Thread Group 1-94,text,true,,976,1011,80,80,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,190,0,0
+1791452751369,194,市价买,200,OK,jp@gc - Stepping Thread Group 1-29,text,true,,966,1011,80,80,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,194,0,0
+1791452751363,203,市价买,200,OK,jp@gc - Stepping Thread Group 1-40,text,true,,976,1011,80,80,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,202,0,0
+1791452751093,473,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-4,text,true,,460,0,80,80,null,473,0,100
+1791452751380,188,市价卖,200,OK,jp@gc - Stepping Thread Group 1-39,text,true,,970,1011,79,79,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,188,0,0
+1791452751371,200,市价买,200,OK,jp@gc - Stepping Thread Group 1-60,text,true,,974,1011,79,79,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,200,0,0
+1791452751372,199,市价卖,200,OK,jp@gc - Stepping Thread Group 1-45,text,true,,974,1011,79,79,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,199,0,0
+1791452751096,485,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-87,text,true,,460,0,79,79,null,485,0,98
+1791452751399,191,市价买,200,OK,jp@gc - Stepping Thread Group 1-35,text,true,,972,1011,78,78,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,191,0,0
+1791452751377,216,市价买,200,OK,jp@gc - Stepping Thread Group 1-6,text,true,,964,1011,78,78,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,216,0,0
+1791452751379,214,市价卖,200,OK,jp@gc - Stepping Thread Group 1-22,text,true,,970,1011,78,78,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,214,0,0
+1791452751110,485,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-2,text,true,,460,0,78,78,null,485,0,97
+1791452751381,215,市价买,200,OK,jp@gc - Stepping Thread Group 1-16,text,true,,976,1011,77,77,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,215,0,0
+1791452751415,188,市价卖,200,OK,jp@gc - Stepping Thread Group 1-33,text,true,,972,1011,77,77,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,188,0,0
+1791452751383,226,市价买,200,OK,jp@gc - Stepping Thread Group 1-13,text,true,,972,1011,77,77,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,226,0,0
+1791452751118,491,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-91,text,true,,460,0,77,77,null,491,0,98
+1791452751393,220,市价买,200,OK,jp@gc - Stepping Thread Group 1-12,text,true,,972,1011,76,76,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,219,0,0
+1791452751415,199,市价卖,200,OK,jp@gc - Stepping Thread Group 1-26,text,true,,974,1011,76,76,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,199,0,0
+1791452751421,197,撤单,200,OK,jp@gc - Stepping Thread Group 1-63,text,true,,972,1011,76,76,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,197,0,0
+1791452751428,191,撤单,200,OK,jp@gc - Stepping Thread Group 1-55,text,true,,966,1011,76,76,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,191,0,0
+1791452751429,194,市价卖,200,OK,jp@gc - Stepping Thread Group 1-25,text,true,,968,1011,76,76,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,194,0,0
+1791452751432,192,市价卖,200,OK,jp@gc - Stepping Thread Group 1-57,text,true,,968,1011,76,76,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452751425,199,撤单,200,OK,jp@gc - Stepping Thread Group 1-34,text,true,,976,1011,76,76,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,199,0,0
+1791452751156,470,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-42,text,true,,460,0,76,76,null,470,0,76
+1791452751368,272,撤单,200,OK,jp@gc - Stepping Thread Group 1-56,text,true,,970,1011,75,75,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,272,0,0
+1791452751119,524,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-92,text,true,,460,0,75,75,null,524,0,108
+1791452751463,185,市价买,200,OK,jp@gc - Stepping Thread Group 1-24,text,true,,968,1011,74,74,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,185,0,0
+1791452751429,228,市价卖,200,OK,jp@gc - Stepping Thread Group 1-7,text,true,,972,1011,74,74,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,228,0,0
+1791452751215,445,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-88,text,true,,460,0,74,74,null,444,0,29
+1791452751437,226,市价买,200,OK,jp@gc - Stepping Thread Group 1-19,text,true,,972,1011,73,73,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,226,0,0
+1791452751432,234,市价买,200,OK,jp@gc - Stepping Thread Group 1-5,text,true,,970,1011,73,73,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,234,0,0
+1791452751217,456,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-93,text,true,,460,0,73,73,null,456,0,43
+1791452751429,244,市价买,200,OK,jp@gc - Stepping Thread Group 1-17,text,true,,976,1011,73,73,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,244,0,0
+1791452751494,188,市价买,200,OK,jp@gc - Stepping Thread Group 1-48,text,true,,974,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,188,0,0
+1791452751469,213,撤单,200,OK,jp@gc - Stepping Thread Group 1-41,text,true,,972,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,213,0,0
+1791452751480,208,市价买,200,OK,jp@gc - Stepping Thread Group 1-18,text,true,,978,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,208,0,0
+1791452751502,186,撤单,200,OK,jp@gc - Stepping Thread Group 1-51,text,true,,968,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,185,0,0
+1791452751495,193,撤单,200,OK,jp@gc - Stepping Thread Group 1-46,text,true,,974,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,193,0,0
+1791452751503,187,市价买,200,OK,jp@gc - Stepping Thread Group 1-59,text,true,,966,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,187,0,0
+1791452751494,197,撤单,200,OK,jp@gc - Stepping Thread Group 1-44,text,true,,964,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,197,0,0
+1791452751505,187,市价卖,200,OK,jp@gc - Stepping Thread Group 1-36,text,true,,970,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,187,0,0
+1791452751501,197,市价买,200,OK,jp@gc - Stepping Thread Group 1-28,text,true,,972,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,197,0,0
+1791452751513,186,市价卖,200,OK,jp@gc - Stepping Thread Group 1-85,text,true,,968,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,186,0,0
+1791452751514,192,市价卖,200,OK,jp@gc - Stepping Thread Group 1-98,text,true,,970,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452751372,400,撤单,200,OK,jp@gc - Stepping Thread Group 1-54,text,true,,978,1011,72,72,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,191,0,0
+1791452751221,552,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-97,text,true,,460,0,72,72,null,551,0,106
+1791452751547,247,市价卖,200,OK,jp@gc - Stepping Thread Group 1-14,text,true,,972,1011,71,71,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,247,0,0
+1791452751228,587,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-21,text,true,,460,0,71,71,null,587,0,324
+1791452751278,554,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-82,text,true,,460,0,70,70,null,554,0,288
+1791452751278,570,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-95,text,true,,460,0,69,69,null,570,0,303
+1791452751320,542,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-86,text,true,,460,0,68,68,null,542,0,275
+1791452751591,272,市价卖,200,OK,jp@gc - Stepping Thread Group 1-35,text,true,,964,1011,67,67,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,272,0,0
+1791452751566,300,市价卖,200,OK,jp@gc - Stepping Thread Group 1-40,text,true,,970,1011,67,67,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,300,0,0
+1791452751604,262,撤单,200,OK,jp@gc - Stepping Thread Group 1-33,text,true,,968,1011,67,67,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,262,0,0
+1791452751553,316,市价卖,200,OK,jp@gc - Stepping Thread Group 1-47,text,true,,968,1011,67,67,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,316,0,0
+1791452751516,357,市价卖,200,OK,jp@gc - Stepping Thread Group 1-50,text,true,,966,1011,67,67,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,357,0,0
+1791452751624,250,撤单,200,OK,jp@gc - Stepping Thread Group 1-57,text,true,,966,1011,67,67,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,250,0,0
+1791452751614,260,撤单,200,OK,jp@gc - Stepping Thread Group 1-26,text,true,,972,1011,67,67,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,260,0,0
+1791452751323,552,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-68,text,true,,460,0,67,67,null,551,0,286
+1791452751571,309,市价卖,200,OK,jp@gc - Stepping Thread Group 1-60,text,true,,966,1011,66,66,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,309,0,0
+1791452751593,294,撤单,200,OK,jp@gc - Stepping Thread Group 1-22,text,true,,972,1011,66,66,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,293,0,0
+1791452751568,320,撤单,200,OK,jp@gc - Stepping Thread Group 1-39,text,true,,978,1011,66,66,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,319,0,0
+1791452751325,563,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-99,text,true,,460,0,66,66,null,563,0,301
+1791452751553,336,市价卖,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,966,1011,65,65,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,336,0,0
+1791452751658,235,撤单,200,OK,jp@gc - Stepping Thread Group 1-7,text,true,,972,1011,65,65,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,235,0,0
+1791452751328,573,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-3,text,true,,460,0,65,65,null,573,0,315
+1791452751555,356,市价卖,200,OK,jp@gc - Stepping Thread Group 1-94,text,true,,974,1011,64,64,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,356,0,0
+1791452751552,361,市价卖,200,OK,jp@gc - Stepping Thread Group 1-37,text,true,,966,1011,64,64,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,361,0,0
+1791452751366,550,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-80,text,true,,460,0,64,64,null,550,0,294
+1791452751563,360,市价卖,200,OK,jp@gc - Stepping Thread Group 1-29,text,true,,968,1011,63,63,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,360,0,0
+1791452751623,302,撤单,200,OK,jp@gc - Stepping Thread Group 1-25,text,true,,966,1011,63,63,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,302,0,0
+1791452751593,335,市价卖,200,OK,jp@gc - Stepping Thread Group 1-6,text,true,,968,1011,63,63,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,332,0,0
+1791452751552,377,市价卖,200,OK,jp@gc - Stepping Thread Group 1-10,text,true,,972,1011,63,63,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,377,0,0
+1791452751521,409,市价买,200,OK,jp@gc - Stepping Thread Group 1-9,text,true,,966,1011,63,63,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,409,0,0
+1791452751609,321,市价卖,200,OK,jp@gc - Stepping Thread Group 1-13,text,true,,970,1011,63,63,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,321,0,0
+1791452751366,564,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-84,text,true,,460,0,63,63,null,564,0,307
+1791452751666,266,市价卖,200,OK,jp@gc - Stepping Thread Group 1-5,text,true,,968,1011,62,62,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,266,0,0
+1791452751597,341,市价卖,200,OK,jp@gc - Stepping Thread Group 1-16,text,true,,972,1011,62,62,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,341,0,0
+1791452751368,575,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-77,text,true,,460,0,62,62,null,575,0,405
+1791452751690,254,市价卖,200,OK,jp@gc - Stepping Thread Group 1-59,text,true,,974,1011,61,61,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,253,0,0
+1791452751682,267,市价卖,200,OK,jp@gc - Stepping Thread Group 1-48,text,true,,974,1011,61,61,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,267,0,0
+1791452751522,427,市价卖,200,OK,jp@gc - Stepping Thread Group 1-15,text,true,,968,1011,61,61,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,427,0,0
+1791452751571,379,撤单,200,OK,jp@gc - Stepping Thread Group 1-45,text,true,,966,1011,61,61,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,379,0,0
+1791452751706,244,撤单,200,OK,jp@gc - Stepping Thread Group 1-98,text,true,,976,1011,61,61,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,244,0,0
+1791452751373,584,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-79,text,true,,460,0,61,61,null,584,0,442
+1791452751648,310,市价卖,200,OK,jp@gc - Stepping Thread Group 1-24,text,true,,972,1011,60,60,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,310,0,0
+1791452751692,271,撤单,200,OK,jp@gc - Stepping Thread Group 1-36,text,true,,966,1011,60,60,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,271,0,0
+1791452751514,451,市价买,200,OK,jp@gc - Stepping Thread Group 1-8,text,true,,976,1011,60,60,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,450,0,0
+1791452751699,267,市价卖,200,OK,jp@gc - Stepping Thread Group 1-28,text,true,,976,1011,60,60,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,267,0,0
+1791452751674,292,市价卖,200,OK,jp@gc - Stepping Thread Group 1-17,text,true,,972,1011,60,60,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,292,0,0
+1791452751374,594,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-83,text,true,,460,0,60,60,null,594,0,459
+1791452751699,275,撤单,200,OK,jp@gc - Stepping Thread Group 1-85,text,true,,972,1011,59,59,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,275,0,0
+1791452751689,290,市价卖,200,OK,jp@gc - Stepping Thread Group 1-18,text,true,,964,1011,59,59,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,289,0,0
+1791452751380,600,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-89,text,true,,460,0,59,59,null,600,0,468
+1791452751385,609,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-20,text,true,,460,0,58,58,null,609,0,477
+1791452751393,616,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-78,text,true,,460,0,57,57,null,616,0,482
+1791452751414,610,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-72,text,true,,460,0,56,56,null,610,0,474
+1791452751795,238,撤单,200,OK,jp@gc - Stepping Thread Group 1-14,text,true,,976,1011,55,55,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,238,0,0
+1791452751418,622,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-81,text,true,,460,0,55,55,null,622,0,483
+1791452751863,187,撤单,200,OK,jp@gc - Stepping Thread Group 1-35,text,true,,970,1011,54,54,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,187,0,0
+1791452751866,186,撤单,200,OK,jp@gc - Stepping Thread Group 1-40,text,true,,964,1011,54,54,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,186,0,0
+1791452751419,636,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-66,text,true,,460,0,54,54,null,636,0,497
+1791452751869,186,撤单,200,OK,jp@gc - Stepping Thread Group 1-47,text,true,,974,1011,53,53,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,186,0,0
+1791452751873,192,撤单,200,OK,jp@gc - Stepping Thread Group 1-50,text,true,,976,1011,53,53,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452751421,646,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-75,text,true,,460,0,53,53,null,646,0,509
+1791452751880,193,撤单,200,OK,jp@gc - Stepping Thread Group 1-60,text,true,,970,1011,52,52,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452751421,662,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-67,text,true,,460,0,52,52,null,662,0,522
+1791452751422,673,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-73,text,true,,460,0,51,51,null,673,0,535
+1791452751913,189,撤单,200,OK,jp@gc - Stepping Thread Group 1-37,text,true,,972,1011,50,50,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,189,0,0
+1791452751911,192,撤单,200,OK,jp@gc - Stepping Thread Group 1-94,text,true,,968,1011,50,50,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,192,0,0
+1791452751427,684,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-76,text,true,,460,0,50,50,null,683,0,541
+1791452751923,194,撤单,200,OK,jp@gc - Stepping Thread Group 1-29,text,true,,972,1011,49,49,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,194,0,0
+1791452751502,621,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-74,text,true,,460,0,49,49,null,621,0,478
+1791452751889,242,撤单,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,970,1011,48,48,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,242,0,0
+1791452751929,202,撤单,200,OK,jp@gc - Stepping Thread Group 1-6,text,true,,978,1011,48,48,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,202,0,0
+1791452751503,637,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-64,text,true,,460,0,48,48,null,637,0,491
+1791452751958,182,撤单,200,OK,jp@gc - Stepping Thread Group 1-24,text,true,,974,1011,48,48,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,182,0,0
+1791452751944,196,撤单,200,OK,jp@gc - Stepping Thread Group 1-59,text,true,,970,1011,48,48,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,196,0,0
+1791452751929,216,撤单,200,OK,jp@gc - Stepping Thread Group 1-10,text,true,,972,1011,47,47,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,216,0,0
+1791452751930,220,市价卖,200,OK,jp@gc - Stepping Thread Group 1-9,text,true,,966,1011,47,47,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,220,0,0
+1791452751930,222,撤单,200,OK,jp@gc - Stepping Thread Group 1-13,text,true,,968,1011,47,47,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,222,0,0
+1791452751513,641,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-65,text,true,,460,0,47,47,null,641,0,496
+1791452751938,220,撤单,200,OK,jp@gc - Stepping Thread Group 1-16,text,true,,972,1011,46,46,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,220,0,0
+1791452751619,552,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-63,text,true,,460,0,46,46,null,552,0,405
+1791452751949,226,撤单,200,OK,jp@gc - Stepping Thread Group 1-48,text,true,,972,1011,45,45,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,226,0,0
+1791452751619,565,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-55,text,true,,460,0,45,45,null,564,0,421
+1791452751932,252,撤单,200,OK,jp@gc - Stepping Thread Group 1-5,text,true,,970,1011,44,44,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,252,0,0
+1791452751966,220,撤单,200,OK,jp@gc - Stepping Thread Group 1-17,text,true,,974,1011,44,44,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,219,0,0
+1791452751966,222,撤单,200,OK,jp@gc - Stepping Thread Group 1-28,text,true,,972,1011,44,44,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,222,0,0
+1791452751949,242,撤单,200,OK,jp@gc - Stepping Thread Group 1-15,text,true,,980,1011,44,44,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,242,0,0
+1791452751965,229,市价卖,200,OK,jp@gc - Stepping Thread Group 1-8,text,true,,972,1011,44,44,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,229,0,0
+1791452751979,219,撤单,200,OK,jp@gc - Stepping Thread Group 1-18,text,true,,978,1011,44,44,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,219,0,0
+1791452751624,575,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-34,text,true,,460,0,44,44,null,575,0,431
+1791452751640,572,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-56,text,true,,460,0,43,43,null,572,0,427
+1791452751683,542,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-41,text,true,,460,0,42,42,null,542,0,400
+1791452751664,570,市价卖,200,OK,jp@gc - Stepping Thread Group 1-19,text,true,,974,1011,41,41,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,570,0,0
+1791452751613,622,市价卖,200,OK,jp@gc - Stepping Thread Group 1-12,text,true,,972,1011,41,41,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,622,0,0
+1791452751688,550,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-46,text,true,,460,0,41,41,null,549,0,407
+1791452751689,563,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-51,text,true,,460,0,40,40,null,563,0,422
+1791452751691,574,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-44,text,true,,460,0,39,39,null,574,0,432
+1791452751773,506,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-54,text,true,,460,0,38,38,null,506,0,367
+1791452751866,426,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-33,text,true,,460,0,37,37,null,426,0,288
+1791452751875,431,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-26,text,true,,460,0,36,36,null,431,0,296
+1791452751875,444,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-57,text,true,,460,0,35,35,null,444,0,309
+1791452751887,446,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-22,text,true,,460,0,34,34,null,446,0,312
+1791452751888,461,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-39,text,true,,460,0,33,33,null,461,0,324
+1791452751893,472,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-7,text,true,,460,0,32,32,null,472,0,332
+1791452751925,453,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-25,text,true,,460,0,31,31,null,453,0,313
+1791452751950,439,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-45,text,true,,460,0,30,30,null,439,0,302
+1791452752150,247,撤单,200,OK,jp@gc - Stepping Thread Group 1-9,text,true,,968,1011,29,29,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,247,0,0
+1791452751950,453,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-98,text,true,,460,0,29,29,null,453,0,315
+1791452752194,218,撤单,200,OK,jp@gc - Stepping Thread Group 1-8,text,true,,968,1011,28,28,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,218,0,0
+1791452751963,451,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-36,text,true,,460,0,28,28,null,451,0,317
+1791452751974,456,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-85,text,true,,460,0,27,27,null,456,0,318
+1791452752033,411,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-14,text,true,,460,0,26,26,null,411,0,273
+1791452752234,217,撤单,200,OK,jp@gc - Stepping Thread Group 1-19,text,true,,962,1011,25,25,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,217,0,0
+1791452752050,409,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-35,text,true,,460,0,25,25,null,408,0,269
+1791452752235,232,撤单,200,OK,jp@gc - Stepping Thread Group 1-12,text,true,,972,1011,24,24,https://cloud-gateway.astroxpre.com/user/api/currency/order/submit,232,0,0
+1791452752052,423,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-40,text,true,,460,0,24,24,null,423,0,281
+1791452752055,434,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-47,text,true,,460,0,23,23,null,434,0,294
+1791452752065,437,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-50,text,true,,460,0,22,22,null,437,0,300
+1791452752073,443,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-60,text,true,,460,0,21,21,null,443,0,305
+1791452752102,431,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-37,text,true,,460,0,20,20,null,431,0,287
+1791452752103,441,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-94,text,true,,460,0,19,19,null,441,0,300
+1791452752117,440,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-29,text,true,,460,0,18,18,null,439,0,297
+1791452752131,440,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-6,text,true,,460,0,17,17,null,440,0,299
+1791452752131,451,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-1,text,true,,460,0,16,16,null,451,0,313
+1791452752140,459,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-59,text,true,,460,0,15,15,null,458,0,319
+1791452752140,472,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-24,text,true,,460,0,14,14,null,472,0,335
+1791452752145,479,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-10,text,true,,460,0,13,13,null,479,0,344
+1791452752152,488,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-13,text,true,,460,0,12,12,null,488,0,350
+1791452752158,495,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-16,text,true,,460,0,11,11,null,495,0,358
+1791452752175,492,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-48,text,true,,460,0,10,10,null,491,0,358
+1791452752185,494,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-5,text,true,,460,0,9,9,null,494,0,359
+1791452752186,508,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-17,text,true,,460,0,8,8,null,508,0,371
+1791452752189,520,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-28,text,true,,460,0,7,7,null,520,0,382
+1791452752191,530,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-15,text,true,,460,0,6,6,null,530,0,392
+1791452752198,538,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-18,text,true,,460,0,5,5,null,538,0,401
+1791452752398,349,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-9,text,true,,460,0,4,4,null,349,0,214
+1791452752412,346,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-8,text,true,,460,0,3,3,null,346,0,212
+1791452752451,319,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-19,text,true,,460,0,2,2,null,319,0,189
+1791452752468,314,JDBC Request_查询相关业务数据,200,OK,jp@gc - Stepping Thread Group 1-12,text,true,,460,0,1,1,null,313,0,185
